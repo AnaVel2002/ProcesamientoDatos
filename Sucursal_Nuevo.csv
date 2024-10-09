@@ -1,0 +1,1001 @@
+ID_Sucursal,Nombre,Ciudad,Pais,Capacidad_almacenamiento
+1,"Innovative Industrial Properties, Inc.",West Palm Beach,United States,40
+2,"Colony NorthStar, Inc.",Jackson,United States,43
+3,"Treehouse Foods, Inc.",Santa Fe,United States,48
+4,Orange,Richmond,United States,30
+5,"Kimball International, Inc.",Columbus,United States,47
+6,"ParkerVision, Inc.",Washington,United States,30
+7,National Holdings Corporation,Grand Rapids,United States,19
+8,"Westbury Bancorp, Inc.",Oklahoma City,United States,47
+9,"Airgain, Inc.",Fort Lauderdale,United States,34
+10,RLJ Lodging Trust,Wilmington,United States,50
+11,"Cohen & Steers Total Return Realty Fund, Inc.",Houston,United States,48
+12,"BioScrip, Inc.",Amarillo,United States,49
+13,Ares Commercial Real Estate Corporation,Fort Worth,United States,18
+14,"BancorpSouth, Inc.",Houston,United States,19
+15,"Enable Midstream Partners, LP",Midland,United States,37
+16,Chimera Investment Corporation,Kansas City,United States,31
+17,Whirlpool Corporation,Gainesville,United States,29
+18,"Safe Bulkers, Inc",Rochester,United States,21
+19,Western Asset Mortgage Capital Corporation,Amarillo,United States,18
+20,"Astec Industries, Inc.",Albany,United States,39
+21,"Five Point Holdings, LLC",Daytona Beach,United States,24
+22,"Valeritas Holdings, Inc.",New Orleans,United States,33
+23,Avadel Pharmaceuticals plc,San Jose,United States,50
+24,"Templeton Global Income Fund, Inc.",Houston,United States,17
+25,"Oppenheimer Holdings, Inc.",El Paso,United States,28
+26,Monroe Capital Corporation,Philadelphia,United States,26
+27,Nuveen Credit Opportunities 2022 Target Term Fund,Van Nuys,United States,37
+28,"Sally Beauty Holdings, Inc.",Washington,United States,48
+29,GasLog Partners LP,Las Vegas,United States,39
+30,"Camping World Holdings, Inc.",Dallas,United States,38
+31,"JELD-WEN Holding, Inc.",New York City,United States,44
+32,Kearny Financial,Grand Junction,United States,35
+33,Washington Real Estate Investment Trust,Las Vegas,United States,27
+34,Horizon Technology Finance Corporation,Stockton,United States,33
+35,"Community Health Systems, Inc.",Salt Lake City,United States,21
+36,"J. W. Mays, Inc.",Omaha,United States,40
+37,Blackrock Health Sciences Trust,Detroit,United States,38
+38,Morgan Stanley,Tucson,United States,34
+39,RELX PLC,Toledo,United States,21
+40,"Mellanox Technologies, Ltd.",Alexandria,United States,16
+41,VictoryShares Emerging Market Volatility Wtd ETF,Chicago,United States,37
+42,Regions Financial Corporation,New York City,United States,22
+43,Kewaunee Scientific Corporation,Washington,United States,30
+44,"H&E Equipment Services, Inc.",Richmond,United States,23
+45,"Insys Therapeutics, Inc.",Chicago,United States,29
+46,"PB Bancorp, Inc.",Phoenix,United States,20
+47,"Banco Latinoamericano de Comercio Exterior, S.A.",Las Vegas,United States,19
+48,General Electric Capital Corporation,Lancaster,United States,37
+49,CBS Corporation,Tyler,United States,37
+50,"Rush Enterprises, Inc.",Atlanta,United States,48
+51,"Alnylam Pharmaceuticals, Inc.",Jackson,United States,25
+52,"Gray Television, Inc.",Des Moines,United States,38
+53,Webster Financial Corporation,Springfield,United States,30
+54,CDW Corporation,Los Angeles,United States,34
+55,Cumberland Pharmaceuticals Inc.,Olympia,United States,25
+56,"MabVax Therapeutics Holdings, Inc.",Salt Lake City,United States,28
+57,Select Asset Inc.,Santa Ana,United States,15
+58,Ethan Allen Interiors Inc.,Charlotte,United States,29
+59,Repligen Corporation,Charlotte,United States,25
+60,R1 RCM Inc.,Oklahoma City,United States,32
+61,"State National Companies, Inc.",Omaha,United States,41
+62,"Plantronics, Inc.",Durham,United States,18
+63,Lehman ABS Corporation,Norwalk,United States,43
+64,"SPAR Group, Inc.",Saint Paul,United States,22
+65,WashingtonFirst Bankshares Inc,Glendale,United States,44
+66,"Sound Financial Bancorp, Inc.",Little Rock,United States,29
+67,PowerShares S&P SmallCap Energy Portfolio,Cincinnati,United States,21
+68,Royal Bank Scotland plc (The),Washington,United States,38
+69,"Aspen Aerogels, Inc.",Durham,United States,33
+70,WisdomTree United Kingdom Hedged Equity Fund,Jamaica,United States,42
+71,"Windstream Holdings, Inc.",Washington,United States,43
+72,"Sprouts Farmers Market, Inc.",Chicago,United States,37
+73,"Alder BioPharmaceuticals, Inc.",San Jose,United States,32
+74,Cellectis S.A.,Denver,United States,19
+75,"MKS Instruments, Inc.",Brooklyn,United States,50
+76,"Methode Electronics, Inc.",Decatur,United States,20
+77,"Summit Hotel Properties, Inc.",Gainesville,United States,25
+78,Entravision Communications Corporation,Raleigh,United States,30
+79,Wintrust Financial Corporation,Carson City,United States,22
+80,Baker Hughes Incorporated,Johnson City,United States,38
+81,"Soligenix, Inc.",Kansas City,United States,19
+82,"ModusLink Global Solutions, Inc",Evansville,United States,42
+83,Sears Holdings Corporation,Saint Cloud,United States,31
+84,Vident Core US Equity ETF,Petaluma,United States,36
+85,"Empire State Realty Trust, Inc.",Omaha,United States,36
+86,"NextEra Energy, Inc.",Lynn,United States,38
+87,Anworth Mortgage Asset  Corporation,Sparks,United States,24
+88,"Insys Therapeutics, Inc.",Fullerton,United States,20
+89,Cincinnati Financial Corporation,Miami,United States,19
+90,Crawford & Company,Sioux Falls,United States,29
+91,News Corporation,Austin,United States,33
+92,"Office Depot, Inc.",Jackson,United States,47
+93,United States Cellular Corporation,Honolulu,United States,39
+94,SBA Communications Corporation,Dulles,United States,20
+95,"Gibraltar Industries, Inc.",Long Beach,United States,24
+96,Orion Engineered Carbons S.A,Arlington,United States,41
+97,"Air Transport Services Group, Inc",Shreveport,United States,43
+98,Ryanair Holdings plc,Youngstown,United States,39
+99,"Texas Capital Bancshares, Inc.",Alexandria,United States,38
+100,Solar Capital Ltd.,Houston,United States,25
+101,"Cass Information Systems, Inc",Detroit,United States,16
+102,"Royal Bancshares of Pennsylvania, Inc.",Alexandria,United States,26
+103,eBay Inc.,Fresno,United States,27
+104,Trillium Therapeutics Inc.,Cincinnati,United States,45
+105,"OpGen, Inc.",Mobile,United States,31
+106,Riverview Bancorp Inc,Columbia,United States,28
+107,"Lakeland Industries, Inc.",Fort Myers,United States,47
+108,"Rocky Mountain Chocolate Factory, Inc.",Macon,United States,48
+109,Shenandoah Telecommunications Co,Rochester,United States,37
+110,Qwest Corporation,Conroe,United States,33
+111,Virco Manufacturing Corporation,Albany,United States,39
+112,RELX PLC,Minneapolis,United States,35
+113,Kearny Financial,Indianapolis,United States,47
+114,PIMCO Municipal Income Fund,San Diego,United States,38
+115,HMS Holdings Corp,Dallas,United States,45
+116,Liberty Global plc,Naperville,United States,34
+117,Two Harbors Investments Corp,Salt Lake City,United States,19
+118,"Advanced Micro Devices, Inc.",El Paso,United States,19
+119,"MSC Industrial Direct Company, Inc.",Honolulu,United States,30
+120,"Blueknight Energy Partners L.P., L.L.C.",Duluth,United States,26
+121,Weyerhaeuser Company,Seattle,United States,20
+122,"HubSpot, Inc.",San Francisco,United States,25
+123,"Colony NorthStar, Inc.",Toledo,United States,40
+124,Limoneira Co,Springfield,United States,30
+125,ProShares UltraPro QQQ,Clearwater,United States,41
+126,"KVH Industries, Inc.",Inglewood,United States,30
+127,RenaissanceRe Holdings Ltd.,Atlanta,United States,45
+128,"Gap, Inc. (The)",New Hyde Park,United States,20
+129,LiNiu Technology Group,New Hyde Park,United States,34
+130,"Paratek Pharmaceuticals, Inc. ",Portland,United States,42
+131,Blackrock Enhanced Equity Dividend Trust,Billings,United States,19
+132,First Trust Brazil AlphaDEX Fund,Washington,United States,19
+133,"Alphatec Holdings, Inc.",Durham,United States,29
+134,First Trust Nasdaq Pharmaceuticals ETF,Phoenix,United States,31
+135,Georgia Power Company,Orlando,United States,48
+136,PowerShares DWA Tactical Multi-Asset Income Portfolio,Austin,United States,20
+137,First Trust TCW Opportunistic Fixed Income ETF,Waco,United States,21
+138,S&P Global Inc.,New Orleans,United States,16
+139,"Armstrong Flooring, Inc.",Merrifield,United States,33
+140,"Spark Energy, Inc.",Los Angeles,United States,47
+141,"CB Financial Services, Inc.",Beaverton,United States,31
+142,"Retrophin, Inc.",Saginaw,United States,37
+143,Enbridge Inc,Omaha,United States,43
+144,Eaton Vance Risk-Managed Diversified Equity Income Fund,Jefferson City,United States,15
+145,"Supernus Pharmaceuticals, Inc.",San Antonio,United States,41
+146,Emerge Energy Services LP,Sacramento,United States,34
+147,Greif Bros. Corporation,New Bedford,United States,38
+148,"Timberland Bancorp, Inc.",San Diego,United States,34
+149,"China Natural Resources, Inc.",Garden Grove,United States,41
+150,"MS Income Securities, Inc.",Santa Barbara,United States,17
+151,"Selective Insurance Group, Inc.",New York City,United States,21
+152,"Mirna Therapeutics, Inc.",Huntsville,United States,44
+153,"Customers Bancorp, Inc",Washington,United States,22
+154,Atrion Corporation,Stamford,United States,35
+155,Nuveen California AMT-Free Quality Municipal Income Fund,Miami,United States,46
+156,Educational Development Corporation,Columbus,United States,44
+157,Newtek Business Services Corp.,Omaha,United States,49
+158,Medallion Financial Corp.,Rockford,United States,32
+159,Public Storage,Cedar Rapids,United States,37
+160,Saban Capital Acquisition Corp.,Harrisburg,United States,31
+161,Apartment Investment and Management Company,Des Moines,United States,24
+162,Fastenal Company,Jacksonville,United States,23
+163,"Affiliated Managers Group, Inc.",Phoenix,United States,41
+164,"AngioDynamics, Inc.",Phoenix,United States,42
+165,BlackRock Municipal Income Investment Trust,Saint Augustine,United States,21
+166,"ARI Network Services, Inc.",Dallas,United States,29
+167,General Electric Capital Corporation,Louisville,United States,22
+168,"On Deck Capital, Inc.",Las Cruces,United States,23
+169,WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund,Saint Paul,United States,31
+170,Dataram Corporation,Louisville,United States,36
+171,"Rambus, Inc.",Columbus,United States,46
+172,FIRST REPUBLIC BANK,Vancouver,United States,30
+173,Highway Holdings Limited,Kansas City,United States,23
+174,"F5 Networks, Inc.",Washington,United States,35
+175,"T-Mobile US, Inc.",Tacoma,United States,18
+176,"Washington Trust Bancorp, Inc.",Oklahoma City,United States,16
+177,BioSpecifics Technologies Corp,Los Angeles,United States,44
+178,Michael Kors Holdings Limited,Fort Wayne,United States,35
+179,BB&T Corporation,Evansville,United States,30
+180,AMREP Corporation,Grand Rapids,United States,26
+181,"Merit Medical Systems, Inc.",Wilmington,United States,27
+182,"Alexandria Real Estate Equities, Inc.",Asheville,United States,17
+183,"U S Concrete, Inc.",Savannah,United States,24
+184,Pimco Income Opportunity Fund,Hartford,United States,40
+185,Chesapeake Lodging Trust,Evansville,United States,18
+186,Research Frontiers Incorporated,Fort Worth,United States,17
+187,"OSI Systems, Inc.",Waco,United States,33
+188,Vanguard Mortgage-Backed Securities ETF,Grand Rapids,United States,50
+189,The Joint Corp.,Van Nuys,United States,40
+190,Vanguard Long-Term Government Bond ETF,Torrance,United States,19
+191,NASDAQ TEST STOCK,Little Rock,United States,48
+192,Endo International plc,Honolulu,United States,33
+193,Select Asset Inc.,Albany,United States,20
+194,"Digital Ally, Inc.",Little Rock,United States,22
+195,WisdomTree Strategic Corporate Bond Fund,Saint Petersburg,United States,16
+196,"Blackrock MuniHoldings New Jersey Insured Fund, Inc.",San Francisco,United States,42
+197,"New York Mortgage Trust, Inc.",Sacramento,United States,50
+198,"Spok Holdings, Inc.",New Orleans,United States,22
+199,Babson Global Short Duration High Yield Fund,Seattle,United States,48
+200,Valley National Bancorp,Dayton,United States,49
+201,Masonite International Corporation,El Paso,United States,30
+202,Chemours Company (The),Migrate,United States,15
+203,Global X Longevity Thematic ETF,Norwalk,United States,36
+204,"Dril-Quip, Inc.",Staten Island,United States,28
+205,"Everest Re Group, Ltd.",Washington,United States,46
+206,Johnson & Johnson,Cincinnati,United States,18
+207,American Tower Corporation (REIT),Saint Paul,United States,47
+208,Genworth Financial Inc,Jacksonville,United States,26
+209,"HTG Molecular Diagnostics, Inc.",Saint Paul,United States,21
+210,"DigitalGlobe, Inc",Biloxi,United States,25
+211,Fresenius Medical Care Corporation,Stamford,United States,37
+212,"Zayo Group Holdings, Inc.",Beaverton,United States,34
+213,"Twin Disc, Incorporated",Santa Cruz,United States,27
+214,Big 5 Sporting Goods Corporation,Petaluma,United States,45
+215,Bank of N.T. Butterfield & Son Limited (The),San Jose,United States,49
+216,BB&T Corporation,Los Angeles,United States,24
+217,"China Lodging Group, Limited",Brooklyn,United States,47
+218,"Rand Logistics, Inc.",Chicago,United States,48
+219,Teleflex Incorporated,Boynton Beach,United States,46
+220,"Intuitive Surgical, Inc.",Anchorage,United States,40
+221,"Mirna Therapeutics, Inc.",Lynchburg,United States,37
+222,"Comstock Holding Companies, Inc.",Baton Rouge,United States,34
+223,World Fuel Services Corporation,Houston,United States,44
+224,iShares Commodities Select Strategy ETF,Montgomery,United States,44
+225,"Biostar Pharmaceuticals, Inc.",Birmingham,United States,16
+226,Hanesbrands Inc.,Montgomery,United States,34
+227,CF Corporation,Pueblo,United States,16
+228,"China Customer Relations Centers, Inc.",Tallahassee,United States,15
+229,"Momenta Pharmaceuticals, Inc.",New York City,United States,15
+230,Pimco Income Opportunity Fund,Houston,United States,48
+231,"Benchmark Electronics, Inc.",Huntington,United States,21
+232,LINE Corporation,Boynton Beach,United States,49
+233,SecureWorks Corp.,Saint Paul,United States,20
+234,Quorum Health Corporation,Lakeland,United States,42
+235,"Blackrock MuniYield Quality Fund, Inc.",San Jose,United States,47
+236,Community West Bancshares,Pueblo,United States,43
+237,Viacom Inc.,New York City,United States,36
+238,"Mota Group, Inc.",Santa Fe,United States,45
+239,iShares MSCI Emerging Markets Asia Index Fund,Cincinnati,United States,40
+240,Quest Diagnostics Incorporated,Richmond,United States,33
+241,Danaos Corporation,Olympia,United States,50
+242,Zynga Inc.,Indianapolis,United States,35
+243,"WhiteHorse Finance, Inc.",Boise,United States,32
+244,"Southcross Energy Partners, L.P.",Austin,United States,20
+245,Stone Energy Corporation,Rockford,United States,44
+246,"Harvard Bioscience, Inc.",Fort Worth,United States,16
+247,Matador Resources Company,Beaufort,United States,49
+248,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio,Anchorage,United States,16
+249,Lipocine Inc.,Shawnee Mission,United States,25
+250,iPath US Treasury Long Bond Bear ETN,Washington,United States,36
+251,CVR Energy Inc.,Nashville,United States,44
+252,Atento S.A.,Vienna,United States,18
+253,Nanometrics Incorporated,Hyattsville,United States,50
+254,"Carolina Trust BancShares, Inc.",Gainesville,United States,27
+255,"Royal Bancshares of Pennsylvania, Inc.",Washington,United States,25
+256,WVS Financial Corp.,Vancouver,United States,30
+257,Global X Guru Activist ETF,Richmond,United States,27
+258,"Apollo Endosurgery, Inc.",Austin,United States,16
+259,Huron Consulting Group Inc.,Philadelphia,United States,42
+260,"Viking Therapeutics, Inc.",El Paso,United States,31
+261,PowerShares DWA Developed Markets Momentum Portfolio,Honolulu,United States,49
+262,"Spring Bank Pharmaceuticals, Inc.",Englewood,United States,48
+263,Global X Social Media ETF,Washington,United States,18
+264,"ARMOUR Residential REIT, Inc.",Las Cruces,United States,28
+265,First Trust NASDAQ-100 Equal Weighted Index Fund,Lubbock,United States,39
+266,"CBL & Associates Properties, Inc.",Lansing,United States,47
+267,Access National Corporation,Indianapolis,United States,18
+268,Energen Corporation,Pinellas Park,United States,35
+269,Appian Corporation,Houston,United States,46
+270,Global X Internet of Things ETF,Las Vegas,United States,34
+271,Public Storage,Buffalo,United States,30
+272,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,Baton Rouge,United States,19
+273,Global X Robotics & Artificial Intelligence ETF,Sacramento,United States,27
+274,"Schweitzer-Mauduit International, Inc.",Cincinnati,United States,41
+275,"Chico's FAS, Inc.",Orange,United States,32
+276,Great Plains Energy Inc,Port Washington,United States,29
+277,Charles & Colvard Ltd,Greensboro,United States,35
+278,Jagged Peak Energy Inc.,Peoria,United States,32
+279,Cenovus Energy Inc,Sacramento,United States,38
+280,Global Partner Acquisition Corp.,Fresno,United States,31
+281,"Tabula Rasa HealthCare, Inc.",Jacksonville,United States,41
+282,Blackrock Global,Charleston,United States,41
+283,"Computer Programs and Systems, Inc.",Tallahassee,United States,25
+284,"USANA Health Sciences, Inc.",Cincinnati,United States,17
+285,BlackRock Income Trust Inc. (The),Los Angeles,United States,17
+286,BiondVax Pharmaceuticals Ltd.,Omaha,United States,33
+287,Global Indemnity Limited,Tyler,United States,28
+288,Pennsylvania Real Estate Investment Trust,Tulsa,United States,39
+289,GasLog Partners LP,Saint Joseph,United States,38
+290,"RCI Hospitality Holdings, Inc.",Houston,United States,41
+291,Wayne Savings Bancshares Inc.,Portland,United States,36
+292,"Kforce, Inc.",Flushing,United States,50
+293,"Group 1 Automotive, Inc.",Charleston,United States,24
+294,Oi S.A.,Evansville,United States,18
+295,Lazard Ltd.,Denver,United States,47
+296,ReWalk Robotics Ltd,Oklahoma City,United States,22
+297,CIM Commercial Trust Corporation,Paterson,United States,34
+298,Glen Burnie Bancorp,Dallas,United States,17
+299,Sensata Technologies Holding N.V.,Kissimmee,United States,44
+300,Westmoreland Coal Company,Birmingham,United States,22
+301,"Aimmune Therapeutics, Inc.",Newark,United States,33
+302,Regency Centers Corporation,Jamaica,United States,26
+303,"Natural Gas Services Group, Inc.",Los Angeles,United States,50
+304,"LegacyTexas Financial Group, Inc.",Portland,United States,47
+305,Vanguard International High Dividend Yield ETF,Jackson,United States,50
+306,"Korea Equity Fund, Inc.",Fort Worth,United States,23
+307,"Allscripts Healthcare Solutions, Inc.",Baton Rouge,United States,48
+308,"The Navigators Group, Inc.",Billings,United States,23
+309,Cherry Hill Mortgage Investment Corporation,Buffalo,United States,27
+310,Paragon Commercial Corporation,Honolulu,United States,38
+311,UNIVERSAL INSURANCE HOLDINGS INC,Newark,United States,40
+312,"Zillow Group, Inc.",Santa Rosa,United States,16
+313,Granite Construction Incorporated,Fullerton,United States,46
+314,Tribune Media Company,Oklahoma City,United States,21
+315,TOR Minerals International Inc,Wilmington,United States,25
+316,"Digital Ally, Inc.",Chattanooga,United States,48
+317,Arch Capital Group Ltd.,Charleston,United States,41
+318,United States Steel Corporation,San Francisco,United States,47
+319,Rexnord Corporation,Colorado Springs,United States,37
+320,"Entegris, Inc.",San Jose,United States,42
+321,Performance Food Group Company,Hicksville,United States,42
+322,"support.com, Inc.",Washington,United States,46
+323,Enstar Group Limited,Hollywood,United States,35
+324,"Nexeo Solutions, Inc.",Birmingham,United States,38
+325,New Mountain Finance Corporation,Washington,United States,29
+326,Xactly Corporation,Frankfort,United States,30
+327,Blackrock MuniYield Investment QualityFund,Washington,United States,46
+328,"Merrill Lynch Depositor, Inc.",Stockton,United States,42
+329,Gladstone Capital Corporation,Biloxi,United States,22
+330,Charles & Colvard Ltd,Rochester,United States,39
+331,"Plug Power, Inc.",Cedar Rapids,United States,49
+332,"SiteOne Landscape Supply, Inc.",Inglewood,United States,16
+333,"Evertec, Inc.",San Antonio,United States,21
+334,"Papa Murphy's Holdings, Inc.",Washington,United States,45
+335,"Odyssey Marine Exploration, Inc.",Jackson,United States,22
+336,"MoSys, Inc.",Fort Myers,United States,15
+337,Camden Property Trust,Orlando,United States,39
+338,Constellation Brands Inc,Springfield,United States,38
+339,"Atwood Oceanics, Inc.",Washington,United States,23
+340,Anworth Mortgage Asset  Corporation,Reno,United States,22
+341,AXT Inc,Cleveland,United States,39
+342,"Just Energy Group, Inc.",Raleigh,United States,27
+343,"PDC Energy, Inc.",Jacksonville,United States,20
+344,O2Micro International Limited,New Orleans,United States,46
+345,Cabot Microelectronics Corporation,Vienna,United States,26
+346,State Street Corporation,Beaumont,United States,15
+347,Blackrock Municipal 2018 Term Trust,Springfield,United States,47
+348,"CACI International, Inc.",Pasadena,United States,26
+349,"Blackrock Enhanced Government Fund, Inc",Los Angeles,United States,23
+350,"MBIA, Inc.",Dallas,United States,34
+351,Mattersight Corporation,Saint Augustine,United States,47
+352,Immuron Limited,Dallas,United States,27
+353,Moody's Corporation,Kansas City,United States,26
+354,NCR Corporation,Dallas,United States,16
+355,Allergan plc.,Naples,United States,34
+356,Simmons First National Corporation,Valdosta,United States,17
+357,Adecoagro S.A.,Lancaster,United States,50
+358,"Boston Properties, Inc.",Dayton,United States,38
+359,Zebra Technologies Corporation,Naperville,United States,35
+360,"Empire Resorts, Inc.",Schenectady,United States,43
+361,Patheon N.V.,Tampa,United States,15
+362,Evercore Partners Inc,Minneapolis,United States,40
+363,"Twenty-First Century Fox, Inc.",Akron,United States,49
+364,First South Bancorp Inc,Washington,United States,18
+365,"Extreme Networks, Inc.",Anchorage,United States,21
+366,FlexShares US Quality Large Cap Index Fund,Miami,United States,31
+367,AquaVenture Holdings Limited,Cincinnati,United States,20
+368,Kewaunee Scientific Corporation,Fresno,United States,15
+369,Kayne Anderson Acquisition Corp.,Billings,United States,29
+370,"Crown Crafts, Inc.",San Diego,United States,38
+371,CNOOC Limited,Evansville,United States,26
+372,"Rogers Communication, Inc.",Migrate,United States,28
+373,Advent/Claymore Enhanced Growth & Income Fund,Chicago,United States,16
+374,Liberty Broadband Corporation,Hartford,United States,34
+375,"United-Guardian, Inc.",Tucson,United States,36
+376,Royal Caribbean Cruises Ltd.,Staten Island,United States,23
+377,"Harte-Hanks, Inc.",Sacramento,United States,15
+378,Mosaic Company (The),Columbus,United States,34
+379,icad inc.,Waco,United States,26
+380,"SPI Energy Co., Ltd.",Naples,United States,44
+381,"SkyWest, Inc.",Reston,United States,21
+382,"Crown Holdings, Inc.",Seattle,United States,25
+383,RenaissanceRe Holdings Ltd.,Dallas,United States,23
+384,"Boston Properties, Inc.",Charlotte,United States,49
+385,PowerShares DWA Momentum Portfolio,Warren,United States,20
+386,Dynatronics Corporation,Houston,United States,22
+387,Imax Corporation,Monticello,United States,24
+388,iShares Commodities Select Strategy ETF,Spartanburg,United States,46
+389,"Gores Holdings II, Inc.",Omaha,United States,32
+390,Johnson & Johnson,Durham,United States,16
+391,Darling Ingredients Inc.,Durham,United States,45
+392,"Sajan, Inc.",Minneapolis,United States,35
+393,"Sigma Designs, Inc.",Greeley,United States,46
+394,DoubleLine Income Solutions Fund,Denver,United States,44
+395,"Guidance Software, Inc.",Danbury,United States,46
+396,"InterDigital, Inc.",San Rafael,United States,33
+397,Reliance Steel & Aluminum Co.,San Jose,United States,19
+398,"Bank of the James Financial Group, Inc.",Scottsdale,United States,41
+399,"First Savings Financial Group, Inc.",Humble,United States,41
+400,Gabelli Global Small and Mid Cap Value Trust (The),Tampa,United States,26
+401,"Dominion Energy, Inc.",Phoenix,United States,41
+402,"Anthem, Inc.",Saint Petersburg,United States,38
+403,"IF Bancorp, Inc.",Orlando,United States,38
+404,"MEI Pharma, Inc.",Mesa,United States,37
+405,"NexPoint Residential Trust, Inc.",Montgomery,United States,27
+406,Express Scripts Holding Company,Harrisburg,United States,25
+407,"Brown & Brown, Inc.",San Jose,United States,19
+408,Quantum Corporation,Tucson,United States,31
+409,Steel Partners Holdings LP,Hicksville,United States,44
+410,"GAMCO Natural Resources, Gold & Income Tust ",Cheyenne,United States,39
+411,iPath US Treasury 5-year Bear ETN,Lynchburg,United States,15
+412,Dynagas LNG Partners LP,Atlanta,United States,18
+413,"Rennova Health, Inc.",Pensacola,United States,33
+414,"Live Nation Entertainment, Inc.",San Antonio,United States,43
+415,Immuron Limited,Corpus Christi,United States,38
+416,Cimarex Energy Co,Philadelphia,United States,29
+417,"Five Prime Therapeutics, Inc.",Pensacola,United States,44
+418,"Estee Lauder Companies, Inc. (The)",Lakeland,United States,48
+419,Qwest Corporation,Tucson,United States,23
+420,Hecla Mining Company,Yonkers,United States,37
+421,"Paycom Software, Inc.",Pittsburgh,United States,44
+422,CRH PLC,Young America,United States,21
+423,"Estee Lauder Companies, Inc. (The)",Johnson City,United States,20
+424,Astoria Financial Corporation,Saint Paul,United States,36
+425,Enterprise Bancorp Inc,Petaluma,United States,31
+426,"Genesis Energy, L.P.",Springfield,United States,41
+427,"AG Mortgage Investment Trust, Inc.",Rochester,United States,15
+428,Radware Ltd.,Oklahoma City,United States,46
+429,First Trust BICK Index Fund,Charlotte,United States,40
+430,Silver Run Acquisition Corporation II,Houston,United States,34
+431,CA Inc.,Peoria,United States,25
+432,Whiting Petroleum Corporation,Durham,United States,50
+433,TPG Pace Energy Holdings Corp.,Irving,United States,40
+434,News Corporation,Omaha,United States,48
+435,Nuveen High Income 2020 Target Term Fund,Largo,United States,28
+436,"Asta Funding, Inc.",Sacramento,United States,22
+437,R1 RCM Inc.,Whittier,United States,25
+438,Amec Plc Ord,Van Nuys,United States,31
+439,Scotts Miracle-Gro Company (The),Dallas,United States,23
+440,"eHealth, Inc.",Ocala,United States,50
+441,MV Oil Trust,Albany,United States,37
+442,"Customers Bancorp, Inc",Saint Joseph,United States,46
+443,Vanguard Long-Term Government Bond ETF,Memphis,United States,21
+444,Grupo Financiero Galicia S.A.,Louisville,United States,38
+445,TCP Capital Corp.,Alhambra,United States,35
+446,"J. W. Mays, Inc.",El Paso,United States,45
+447,Interstate Power and Light Company,Denver,United States,21
+448,Antero Midstream GP LP,Laurel,United States,31
+449,"Value Line, Inc.",Alexandria,United States,37
+450,"G-III Apparel Group, LTD.",Youngstown,United States,49
+451,"Sonic Foundry, Inc.",Washington,United States,44
+452,"China Green Agriculture, Inc.",Bronx,United States,38
+453,Equity Commonwealth,Terre Haute,United States,25
+454,Gramercy Property Trust Inc.,Philadelphia,United States,17
+455,Fortis Inc.,Sterling,United States,32
+456,"Spirit Realty Capital, Inc.",Lynchburg,United States,46
+457,Albemarle Corporation,Washington,United States,33
+458,Gladstone Capital Corporation,Philadelphia,United States,48
+459,Vornado Realty Trust,Pittsburgh,United States,43
+460,First Bank,Asheville,United States,28
+461,Kirby Corporation,Allentown,United States,26
+462,Norwegian Cruise Line Holdings Ltd.,Maple Plain,United States,25
+463,ClearSign Combustion Corporation,Saint Louis,United States,19
+464,Banner Corporation,Boise,United States,42
+465,Public Storage,Lynchburg,United States,25
+466,United Community Bancorp,Sacramento,United States,49
+467,Morgan Stanley,Minneapolis,United States,29
+468,Karyopharm Therapeutics Inc.,Boston,United States,40
+469,"James River Group Holdings, Ltd.",Maple Plain,United States,21
+470,"Cytokinetics, Incorporated",Trenton,United States,36
+471,Coca-Cola European Partners plc,Saint Paul,United States,42
+472,Nuveen Short Duration Credit Opportunities Fund,Charlotte,United States,18
+473,"HarborOne Bancorp, Inc.",Austin,United States,39
+474,Steel Partners Holdings LP,New York City,United States,37
+475,Oxford Immunotec Global PLC,Waco,United States,42
+476,Altisource Portfolio Solutions S.A.,Racine,United States,33
+477,Atlassian Corporation Plc,Ogden,United States,36
+478,Stellar Acquisition III Inc.,Philadelphia,United States,48
+479,Veeco Instruments Inc.,Indianapolis,United States,19
+480,Histogenics Corporation,Tampa,United States,47
+481,"SmartFinancial, Inc.",Milwaukee,United States,34
+482,"Codexis, Inc.",Springfield,United States,16
+483,DCP Midstream LP,Washington,United States,19
+484,Unifirst Corporation,Atlanta,United States,30
+485,Western Union Company (The),Maple Plain,United States,32
+486,RLJ Lodging Trust,Denton,United States,21
+487,"Republic First Bancorp, Inc.",Marietta,United States,50
+488,Virtus Global Dividend & Income Fund Inc.,Houston,United States,18
+489,MSG Networks Inc.,Port Saint Lucie,United States,40
+490,Access National Corporation,Mesa,United States,39
+491,"Rush Enterprises, Inc.",Bronx,United States,15
+492,China Cord Blood Corporation,Philadelphia,United States,28
+493,"The Herzfeld Caribbean Basin Fund, Inc.",Pittsburgh,United States,40
+494,Semgroup Corporation,Orlando,United States,32
+495,"Medical Transcription Billing, Corp.",Madison,United States,36
+496,"SunTrust Banks, Inc.",San Antonio,United States,15
+497,Scotts Miracle-Gro Company (The),Petaluma,United States,19
+498,Terreno Realty Corporation,Dulles,United States,43
+499,WisdomTree Emerging Markets Quality Dividend Growth Fund,Albuquerque,United States,47
+500,Gabelli Multi-Media Trust Inc. (The),Charlotte,United States,17
+501,"Dover Motorsports, Inc.",Seattle,United States,43
+502,Blackrock MuniYield Investment Fund,Colorado Springs,United States,16
+503,Global X FinTech ETF,Memphis,United States,39
+504,"Cellectar Biosciences, Inc.",Colorado Springs,United States,16
+505,Janus Henderson Small/Mid Cap Growth Alpha ETF,Dallas,United States,29
+506,"Calithera Biosciences, Inc.",North Little Rock,United States,26
+507,"Amplify Snack Brands, inc.",Bryan,United States,47
+508,"Gibraltar Industries, Inc.",Wilmington,United States,49
+509,Apollo Commercial Real Estate Finance,Savannah,United States,27
+510,Navient Corporation,Sacramento,United States,16
+511,Costco Wholesale Corporation,Saint Petersburg,United States,42
+512,Ocean Rig UDW Inc.,Evansville,United States,41
+513,Resolute Energy Corporation,Boston,United States,33
+514,"Northwest Bancshares, Inc.",Charleston,United States,22
+515,"Marrone Bio Innovations, Inc.",Fort Wayne,United States,21
+516,"Cytokinetics, Incorporated",Seminole,United States,27
+517,Zymeworks Inc.,Fort Pierce,United States,23
+518,Flowserve Corporation,Rochester,United States,43
+519,Fox Factory Holding Corp.,Fargo,United States,37
+520,Qwest Corporation,Minneapolis,United States,42
+521,"Boston Private Financial Holdings, Inc.",Richmond,United States,21
+522,"UMH Properties, Inc.",Minneapolis,United States,44
+523,Luminex Corporation,Saint Joseph,United States,45
+524,iFresh Inc.,Akron,United States,50
+525,RAIT Financial Trust,Austin,United States,43
+526,Toll Brothers Inc.,Phoenix,United States,47
+527,Pimco Income Opportunity Fund,Sparks,United States,26
+528,"Dupont Fabros Technology, Inc.",Birmingham,United States,40
+529,"ARMOUR Residential REIT, Inc.",Mountain View,United States,24
+530,Western Asset Mortgage Capital Corporation,Roanoke,United States,17
+531,Anavex Life Sciences Corp.,Sioux City,United States,45
+532,CABCO Series 2004-101 Trust,Schenectady,United States,29
+533,Public Storage,Omaha,United States,32
+534,TCF Financial Corporation,Santa Fe,United States,50
+535,Cardiome Pharma Corporation,Wilkes Barre,United States,37
+536,"Penske Automotive Group, Inc.",Memphis,United States,21
+537,"MarketAxess Holdings, Inc.",Charleston,United States,38
+538,"U.S. Silica Holdings, Inc.",Murfreesboro,United States,16
+539,Adesto Technologies Corporation,Portland,United States,46
+540,MEDIFAST INC,Minneapolis,United States,39
+541,Ally Financial Inc.,Ocala,United States,50
+542,Ternium S.A.,San Jose,United States,38
+543,Agrium Inc.,New York City,United States,20
+544,Sherwin-Williams Company (The),Garden Grove,United States,23
+545,Concordia International Corp.,Las Vegas,United States,26
+546,Adecoagro S.A.,Jacksonville,United States,28
+547,"HealthStream, Inc.",Sacramento,United States,29
+548,"Verastem, Inc.",Santa Rosa,United States,26
+549,"RCI Hospitality Holdings, Inc.",Baltimore,United States,44
+550,Endeavour Silver Corporation,Raleigh,United States,43
+551,NF Energy Saving Corporation,Houston,United States,39
+552,"Barracuda Networks, Inc.",Boise,United States,15
+553,LKQ Corporation,Sacramento,United States,38
+554,"Hawaiian Telcom Holdco, Inc.",Washington,United States,27
+555,TCP Capital Corp.,Boston,United States,26
+556,FirstService Corporation,New York City,United States,15
+557,Ashford Hospitality Trust Inc,Pinellas Park,United States,38
+558,Abraxas Petroleum Corporation,Allentown,United States,38
+559,Hydrogenics Corporation,Jefferson City,United States,48
+560,Time Warner Inc.,Pittsburgh,United States,33
+561,"Westmoreland Resource Partners, LP",Huntsville,United States,49
+562,Black Hills Corporation,Omaha,United States,39
+563,"National American University Holdings, Inc.",Detroit,United States,17
+564,Zion Oil & Gas Inc,Charlottesville,United States,39
+565,Aspen Insurance Holdings Limited,Toledo,United States,24
+566,Cellect Biotechnology Ltd.,Champaign,United States,27
+567,"Intersect ENT, Inc.",Iowa City,United States,30
+568,Saban Capital Acquisition Corp.,Milwaukee,United States,49
+569,Assured Guaranty Ltd.,Shreveport,United States,49
+570,Modern Media Acquisition Corp.,Pittsburgh,United States,44
+571,iPath US Treasury Flattener ETN,Miami Beach,United States,15
+572,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",Saint Louis,United States,48
+573,Sabre Corporation,Chattanooga,United States,40
+574,Altra Industrial Motion Corp.,San Jose,United States,18
+575,MSB Financial Corp.,Greeley,United States,23
+576,Cooper-Standard Holdings Inc.,Washington,United States,31
+577,Golar LNG Partners LP,Portland,United States,35
+578,Matlin & Partners Acquisition Corporation,Saginaw,United States,40
+579,iShares 20+ Year Treasury Bond ETF,Beaumont,United States,25
+580,"Universal Logistics Holdings, Inc.",Minneapolis,United States,37
+581,"O'Reilly Automotive, Inc.",New Orleans,United States,31
+582,Colonial Municipal Income Trust,Vancouver,United States,33
+583,"Gabelli Equity Trust, Inc. (The)",Stockton,United States,24
+584,"Alexander & Baldwin Holdings, Inc.",Oklahoma City,United States,42
+585,"T-Mobile US, Inc.",Rockford,United States,36
+586,Motif Bio plc,Garland,United States,41
+587,"Universal Forest Products, Inc.",Tampa,United States,36
+588,Cantel Medical Corp.,Houston,United States,25
+589,"Commerce Bancshares, Inc.",Orange,United States,30
+590,Antero Midstream GP LP,Chicago,United States,29
+591,FIRST REPUBLIC BANK,Rochester,United States,25
+592,Cytori Therapeutics Inc,Tampa,United States,45
+593,"WPX Energy, Inc.",Seminole,United States,43
+594,Blackrock Municipal Bond Trust,Santa Barbara,United States,26
+595,"Voya Infrastructure, Industrials and Materials Fund",Duluth,United States,26
+596,"Prudential Financial, Inc.",Hampton,United States,27
+597,BlackRock Income Trust Inc. (The),Jacksonville,United States,29
+598,Calamos Convertible Opportunities and Income Fund,Phoenix,United States,45
+599,IHS Markit Ltd.,Tampa,United States,44
+600,"Genius Brands International, Inc.",Garden Grove,United States,46
+601,"FormFactor, Inc.",Omaha,United States,17
+602,Principal Price Setters Index ETF,Minneapolis,United States,45
+603,Belmond Ltd.,Colorado Springs,United States,30
+604,Southwestern Energy Company,Garland,United States,21
+605,First Trust Global Tactical Commodity Strategy Fund,Peoria,United States,34
+606,Redhill Biopharma Ltd.,Louisville,United States,33
+607,Altisource Residential Corporation,Fairbanks,United States,41
+608,Central Federal Corporation,Nashville,United States,27
+609,"DST Systems, Inc.",Pittsburgh,United States,38
+610,Oak Valley Bancorp (CA),Port Saint Lucie,United States,47
+611,Apache Corporation,Decatur,United States,40
+612,CorVel Corp.,Atlanta,United States,32
+613,"First Financial Northwest, Inc.",Philadelphia,United States,27
+614,"NN, Inc.",Brooklyn,United States,32
+615,State Street Corporation,Greensboro,United States,47
+616,"Coach, Inc.",Dallas,United States,46
+617,"Energizer Holdings, Inc.",Winter Haven,United States,50
+618,"PFSweb, Inc.",Tucson,United States,48
+619,OCI Partners LP,Washington,United States,18
+620,"Finjan Holdings, Inc.",Atlanta,United States,48
+621,First Trust BICK Index Fund,Chicago,United States,47
+622,Legg Mason BW Global Income Opportunities Fund Inc.,Phoenix,United States,43
+623,"Sierra Oncology, Inc.",Louisville,United States,32
+624,Cerner Corporation,Round Rock,United States,30
+625,"United Bancorp, Inc.",Pittsburgh,United States,36
+626,Virco Manufacturing Corporation,Tucson,United States,33
+627,Wheaton Precious Metals Corp.,Miami,United States,50
+628,"ING Group, N.V.",Shawnee Mission,United States,36
+629,"Forest City Realty Trust, Inc.",Washington,United States,26
+630,"Flex Pharma, Inc.",Racine,United States,29
+631,United States Cellular Corporation,Miami,United States,19
+632,"Global Brokerage, Inc.",Bethlehem,United States,22
+633,"National American University Holdings, Inc.",Las Vegas,United States,20
+634,"Manning & Napier, Inc.",Norfolk,United States,21
+635,Dynegy Inc.,Atlanta,United States,44
+636,Gamestop Corporation,Carlsbad,United States,33
+637,Ladder Capital Corp,West Palm Beach,United States,35
+638,"Instructure, Inc.",Washington,United States,45
+639,Invitae Corporation,Las Vegas,United States,25
+640,"Delaware Investments Dividend & Income Fund, Inc.",Tucson,United States,25
+641,PacWest Bancorp,Seattle,United States,15
+642,"MMA Capital Management, LLC",Chandler,United States,44
+643,United Microelectronics Corporation,Seattle,United States,15
+644,Blackrock New York Municipal Income Quality Trust,Cincinnati,United States,26
+645,Alliance National Municipal Income Fund Inc,Boston,United States,21
+646,"Aqua Metals, Inc.",Aurora,United States,42
+647,"Knight Transportation, Inc.",Albuquerque,United States,18
+648,Erie Indemnity Company,Lexington,United States,48
+649,Boulevard Acquisition Corp. II,Norwalk,United States,42
+650,Global Indemnity Limited,Birmingham,United States,37
+651,"Eldorado Resorts, Inc.",Irving,United States,21
+652,"PerkinElmer, Inc.",Brooklyn,United States,45
+653,"Host Hotels & Resorts, Inc.",Colorado Springs,United States,50
+654,"Latin American Discovery Fund, Inc. (The)",Billings,United States,31
+655,"Inogen, Inc",Monroe,United States,46
+656,"Industrias Bachoco, S.A. de C.V.",Cleveland,United States,33
+657,Anchor Bancorp,New Brunswick,United States,17
+658,RAIT Financial Trust,Atlanta,United States,31
+659,"MiMedx Group, Inc",West Palm Beach,United States,42
+660,"Manning & Napier, Inc.",Des Moines,United States,25
+661,BlackRock Municipal Income Trust,Boston,United States,47
+662,Target Corporation,Sacramento,United States,23
+663,Telecom Argentina Stet - France Telecom S.A.,Great Neck,United States,37
+664,"Intersect ENT, Inc.",Louisville,United States,31
+665,Fidus Investment Corporation,Farmington,United States,19
+666,"Mexico Fund, Inc. (The)",Santa Cruz,United States,48
+667,"ProPhase Labs, Inc.",Roanoke,United States,36
+668,Microbot Medical Inc. ,Jacksonville,United States,15
+669,iShares MSCI UAE Capped ETF,Sacramento,United States,17
+670,"Compania Cervecerias Unidas, S.A.",Wichita,United States,49
+671,PowerShares KBW Regional Banking Portfolio,Daytona Beach,United States,41
+672,"Eastern Virginia Bankshares, Inc.",Tallahassee,United States,46
+673,"Republic Bancorp, Inc.",Fort Wayne,United States,33
+674,PIMCO New York Municipal Income Fund,Sacramento,United States,34
+675,Prospect Capital Corporation,San Angelo,United States,24
+676,ALPS/Dorsey Wright Sector Momentum ETF,Buffalo,United States,17
+677,"BofI Holding, Inc.",Birmingham,United States,18
+678,Methanex Corporation,Austin,United States,25
+679,Aspen Insurance Holdings Limited,Saint Petersburg,United States,47
+680,"Blackrock Debt Strategies Fund, Inc.",Saint Louis,United States,17
+681,Blackstone GSO Senior Floating Rate Term Fund,Mesa,United States,18
+682,"Donegal Group, Inc.",Lawrenceville,United States,27
+683,"1347 Property Insurance Holdings, Inc.",Sioux City,United States,21
+684,VanEck Vectors Pharmaceutical ETF,Las Vegas,United States,50
+685,VelocityShares VIX Medium-Term ETN,Oklahoma City,United States,42
+686,"Ominto, Inc.",Oceanside,United States,15
+687,"2U, Inc.",Chicago,United States,19
+688,Landec Corporation,Palmdale,United States,38
+689,"Arena Pharmaceuticals, Inc.",Saint Louis,United States,41
+690,"Telephone and Data Systems, Inc.",New Hyde Park,United States,18
+691,Transocean Ltd.,Beaumont,United States,29
+692,Fidelity Nasdaq Composite Index Tracking Stock,Fort Wayne,United States,36
+693,AllianzGI Diversified Income & Convertible Fund,Manassas,United States,31
+694,Eversource Energy,Atlanta,United States,46
+695,"Texas Capital Bancshares, Inc.",Washington,United States,46
+696,ESSA Pharma Inc.,Delray Beach,United States,49
+697,Liberty All-Star Equity Fund,Paterson,United States,25
+698,"Commerce Bancshares, Inc.",San Diego,United States,21
+699,Blackrock California Municipal 2018 Term Trust,Baltimore,United States,43
+700,"Heritage-Crystal Clean, Inc.",Lawrenceville,United States,31
+701,"American International Group, Inc.",Houston,United States,16
+702,Genetic Technologies Ltd,Hampton,United States,21
+703,"Advanced Micro Devices, Inc.",Richmond,United States,34
+704,Pioneer Energy Services Corp.,New Bedford,United States,37
+705,Voya Emerging Markets High Income Dividend Equity Fund,Honolulu,United States,42
+706,Boulevard Acquisition Corp. II,Inglewood,United States,25
+707,First Trust Low Duration Opportunities ETF,Baton Rouge,United States,45
+708,Star Bulk Carriers Corp.,Minneapolis,United States,23
+709,"RigNet, Inc.",Washington,United States,28
+710,KKR & Co. L.P.,Reno,United States,49
+711,"A V Homes, Inc.",Austin,United States,18
+712,First Trust Eurozone AlphaDEX ETF,El Paso,United States,17
+713,The Descartes Systems Group Inc.,Montgomery,United States,44
+714,Cinemark Holdings Inc,Fort Worth,United States,35
+715,iPath US Treasury 5-year Bear ETN,Tulsa,United States,17
+716,"Sarepta Therapeutics, Inc.",Carson City,United States,27
+717,"Hartford Financial Services Group, Inc. (The)",Santa Rosa,United States,47
+718,FlexShares STOXX US ESG Impact Index Fund,Philadelphia,United States,18
+719,Western Asset Municipal Defined Opportunity Trust Inc,Burbank,United States,47
+720,"Arch Coal, Inc.",Kingsport,United States,24
+721,Future FinTech Group Inc.,Buffalo,United States,42
+722,Pingtan Marine Enterprise Ltd.,Orlando,United States,30
+723,"Sage Therapeutics, Inc.",Gary,United States,48
+724,Hornbeck Offshore Services,Washington,United States,45
+725,Verizon Communications Inc.,Washington,United States,33
+726,"Q2 Holdings, Inc.",Columbia,United States,37
+727,iShares MSCI Emerging Markets Asia Index Fund,Fort Myers,United States,35
+728,"Wellesley Bancorp, Inc.",New York City,United States,23
+729,"Blackrock MuniEnhanced Fund, Inc.",Montgomery,United States,44
+730,Altisource Portfolio Solutions S.A.,New York City,United States,34
+731,"Verisk Analytics, Inc.",Columbus,United States,16
+732,Bank of South Carolina Corp.,Whittier,United States,30
+733,"Banco Santander, S.A.",Sunnyvale,United States,50
+734,Public Storage,Mesa,United States,36
+735,"Aberdeen Greater China Fund, Inc.",New York City,United States,47
+736,PowerShares DWA Healthcare Momentum Portfolio,Atlanta,United States,43
+737,Yahoo! Inc.,Columbus,United States,21
+738,Rex Energy Corporation,Chattanooga,United States,17
+739,"Boston Private Financial Holdings, Inc.",Miami,United States,27
+740,Jazz Pharmaceuticals plc,Erie,United States,39
+741,E.I. du Pont de Nemours and Company,Baltimore,United States,36
+742,Leucadia National Corporation,Grand Rapids,United States,32
+743,Ritchie Bros. Auctioneers Incorporated,Colorado Springs,United States,46
+744,Fifth Third Bancorp,Miami,United States,26
+745,"Summit Materials, Inc.",Grand Forks,United States,49
+746,Eaton Vance Tax-Advantaged Bond,New York City,United States,38
+747,Vornado Realty Trust,Cincinnati,United States,26
+748,Northrim BanCorp Inc,Wichita,United States,20
+749,ARRIS International plc,Toledo,United States,39
+750,Interstate Power and Light Company,Shreveport,United States,34
+751,"Kindred Healthcare, Inc.",Phoenix,United States,15
+752,Integra LifeSciences Holdings Corporation,Cincinnati,United States,38
+753,"Angie's List, Inc.",El Paso,United States,22
+754,Modern Media Acquisition Corp.,Detroit,United States,45
+755,Westamerica Bancorporation,Rochester,United States,25
+756,Virco Manufacturing Corporation,Sacramento,United States,39
+757,Trinseo S.A.,Jackson,United States,33
+758,"CorEnergy Infrastructure Trust, Inc.",Saint Petersburg,United States,20
+759,Cytori Therapeutics Inc,Colorado Springs,United States,22
+760,Huntington Bancshares Incorporated,Roanoke,United States,18
+761,Brookdale Senior Living Inc.,Biloxi,United States,17
+762,"Fauquier Bankshares, Inc.",Phoenix,United States,41
+763,Amerco,Norfolk,United States,41
+764,Liberty Media Corporation,Milwaukee,United States,21
+765,"Superior Uniform Group, Inc.",New York City,United States,42
+766,Tennessee Valley Authority,Humble,United States,42
+767,"Mueller Industries, Inc.",Waco,United States,29
+768,Mobileye N.V.,Colorado Springs,United States,15
+769,"The Hanover Insurance Group, Inc.",Simi Valley,United States,23
+770,3D Systems Corporation,Sterling,United States,22
+771,Halcon Resources Corporation,Waco,United States,26
+772,Acadia Realty Trust,Miami,United States,33
+773,"Hudson Technologies, Inc.",Phoenix,United States,19
+774,"Varian Medical Systems, Inc.",Peoria,United States,20
+775,Consolidated Water Co. Ltd.,Orlando,United States,43
+776,First Trust Small Cap Core AlphaDEX Fund,Atlanta,United States,32
+777,"T2 Biosystems, Inc.",Santa Barbara,United States,18
+778,Cemtrex Inc.,Huntington Beach,United States,50
+779,Cytori Therapeutics Inc,Savannah,United States,29
+780,Fairmount Santrol Holdings Inc.,Naples,United States,22
+781,Mylan N.V.,Newport News,United States,26
+782,"Comstock Holding Companies, Inc.",Phoenix,United States,23
+783,"Energizer Holdings, Inc.",Evansville,United States,31
+784,"Valeant Pharmaceuticals International, Inc.",Erie,United States,31
+785,"PGT Innovations, Inc.",Little Rock,United States,39
+786,Whitestone REIT,Cincinnati,United States,43
+787,"NRG Energy, Inc.",Huntsville,United States,42
+788,"Southwest Gas Holdings, Inc.",Oakland,United States,42
+789,"ADTRAN, Inc.",Des Moines,United States,44
+790,"Apollo Endosurgery, Inc.",Amarillo,United States,20
+791,"Rocky Mountain Chocolate Factory, Inc.",El Paso,United States,26
+792,iShares MSCI Global Impact ETF,Erie,United States,35
+793,Exelon Corporation,Vancouver,United States,25
+794,iShares MSCI Europe Small-Cap ETF,Columbus,United States,18
+795,Macquarie Global Infrastructure Total Return Fund Inc.,El Paso,United States,23
+796,Webster Financial Corporation,Wilmington,United States,42
+797,Mesa Royalty Trust,Springfield,United States,31
+798,"Hope Bancorp, Inc.",Philadelphia,United States,26
+799,iShares MSCI ACWI Index Fund,Miami,United States,41
+800,Weibo Corporation,Fort Pierce,United States,40
+801,"K2M Group Holdings, Inc.",Mesa,United States,36
+802,Valley National Bancorp,Knoxville,United States,37
+803,"B&G Foods, Inc.",Detroit,United States,46
+804,Wells Fargo & Company,Mountain View,United States,34
+805,Fanhua Inc.,Richmond,United States,41
+806,Cadence Bancorporation,Fort Worth,United States,48
+807,"NexPoint Residential Trust, Inc.",Tallahassee,United States,42
+808,Domtar Corporation,Fresno,United States,43
+809,China Unicom (Hong Kong) Ltd,San Antonio,United States,16
+810,"Banc of California, Inc.",San Jose,United States,40
+811,"Prudential Financial, Inc.",Pasadena,United States,33
+812,Tuttle Tactical Management U.S. Core ETF,Delray Beach,United States,46
+813,Belden Inc,Mesa,United States,21
+814,Murphy Oil Corporation,Greeley,United States,29
+815,Coupa Software Incorporated,Fort Worth,United States,38
+816,Federal Realty Investment Trust,El Paso,United States,23
+817,"Crown Crafts, Inc.",Oakland,United States,32
+818,Mistras Group Inc,Evansville,United States,39
+819,"Automatic Data Processing, Inc.",Washington,United States,31
+820,Healthcare Realty Trust Incorporated,Tempe,United States,19
+821,Royal Dutch Shell PLC,Fort Wayne,United States,34
+822,Teekay Offshore Partners L.P.,Boston,United States,30
+823,Bel Fuse Inc.,Santa Barbara,United States,48
+824,John Hancock Tax-Advantaged Global Shareholder Yield Fund,Omaha,United States,17
+825,"HFF, Inc.",Richmond,United States,30
+826,Corcept Therapeutics Incorporated,Detroit,United States,21
+827,Farmer Brothers Company,Chicago,United States,21
+828,iShares MSCI ACWI ex US Index Fund,Tulsa,United States,35
+829,Burcon NutraScience Corp,Chicago,United States,21
+830,Main Street Capital Corporation,Manassas,United States,19
+831,Select Income REIT,Jacksonville,United States,38
+832,Agnico Eagle Mines Limited,Saginaw,United States,27
+833,Blackrock MuniYield Investment QualityFund,San Diego,United States,24
+834,Camtek Ltd.,Charlotte,United States,24
+835,"LMI Aerospace, Inc.",Punta Gorda,United States,16
+836,CarMax Inc,Roanoke,United States,47
+837,Valley National Bancorp,Houston,United States,16
+838,"Camping World Holdings, Inc.",Tacoma,United States,30
+839,Essent Group Ltd.,Chicago,United States,39
+840,Restaurant Brands International Inc.,Seattle,United States,41
+841,"e.l.f. Beauty, Inc.",Springfield,United States,46
+842,Integra LifeSciences Holdings Corporation,Lafayette,United States,50
+843,"Tortoise MLP Fund, Inc.",Youngstown,United States,17
+844,OCI Partners LP,Des Moines,United States,21
+845,"LogMein, Inc.",Augusta,United States,27
+846,"Cohen & Steers Total Return Realty Fund, Inc.",Atlanta,United States,32
+847,"Colony NorthStar, Inc.",Boise,United States,45
+848,Blackrock MuniYield Pennsylvania Quality Fund,Memphis,United States,34
+849,"Zafgen, Inc.",Birmingham,United States,18
+850,"Boingo Wireless, Inc.",Alexandria,United States,33
+851,Park Electrochemical Corporation,Tyler,United States,44
+852,"Tetra Tech, Inc.",Rochester,United States,22
+853,Cerulean Pharma Inc.,New York City,United States,36
+854,Westinghouse Air Brake Technologies Corporation,Akron,United States,25
+855,ProShares UltraPro Short QQQ,Colorado Springs,United States,39
+856,General Motors Company,Washington,United States,45
+857,Nuveen Global High Income Fund,Oklahoma City,United States,30
+858,MainStay DefinedTerm Municipal Opportunities Fund,Jefferson City,United States,24
+859,PartnerRe Ltd.,Jefferson City,United States,46
+860,Seaspan Corporation,New Hyde Park,United States,49
+861,"Oncobiologics, Inc.",Knoxville,United States,21
+862,"F5 Networks, Inc.",Sacramento,United States,39
+863,"Dynex Capital, Inc.",Baltimore,United States,25
+864,"Astec Industries, Inc.",Wichita,United States,39
+865,PowerShares DWA Momentum & Low Volatility Rotation Portfolio,Tacoma,United States,21
+866,Southern California Edison Company,San Rafael,United States,24
+867,THL Credit Senior Loan Fund,Garland,United States,21
+868,Unifirst Corporation,Virginia Beach,United States,18
+869,"Opexa Therapeutics, Inc.",Detroit,United States,17
+870,"First Cash, Inc.",San Antonio,United States,39
+871,Macatawa Bank Corporation,New York City,United States,23
+872,"Diamond Offshore Drilling, Inc.",Cleveland,United States,18
+873,iPath US Treasury 10-year Bear ETN,Richmond,United States,20
+874,Aegon NV,Tacoma,United States,30
+875,"Republic Services, Inc.",Dayton,United States,27
+876,ManpowerGroup,Philadelphia,United States,19
+877,Korn/Ferry International,Washington,United States,24
+878,"MabVax Therapeutics Holdings, Inc.",Independence,United States,20
+879,Universal Technical Institute Inc,Atlanta,United States,16
+880,The Medicines Company,Seattle,United States,25
+881,Scorpio Bulkers Inc.,Aurora,United States,40
+882,Hilltop Holdings Inc.,Charleston,United States,28
+883,"SB Financial Group, Inc.",Nashville,United States,15
+884,"Workhorse Group, Inc.",Lexington,United States,39
+885,"Alarm.com Holdings, Inc.",Mobile,United States,19
+886,"WPX Energy, Inc.",Biloxi,United States,44
+887,Navistar International Corporation,Springfield,United States,34
+888,Banco Santander Chile,Mountain View,United States,47
+889,"Profire Energy, Inc.",Indianapolis,United States,43
+890,Vornado Realty Trust,Simi Valley,United States,38
+891,Progressive Corporation (The),Saint Louis,United States,25
+892,ESCO Technologies Inc.,Charleston,United States,26
+893,"Donegal Group, Inc.",Rochester,United States,19
+894,Taylor Morrison Home Corporation,Spring,United States,22
+895,First Acceptance Corporation,Pasadena,United States,43
+896,Titan Machinery Inc.,Fort Worth,United States,39
+897,BullMark LatAm Select Leaders ETF,Houston,United States,25
+898,DTE Energy Company,Tyler,United States,24
+899,"ADOMANI, Inc.",Tallahassee,United States,31
+900,Blackrock New York Municipal 2018 Term Trust,Pittsburgh,United States,20
+901,"Determine, Inc. ",Boston,United States,29
+902,"Entellus Medical, Inc.",Boise,United States,49
+903,LMP Capital and Income Fund Inc.,Miami,United States,32
+904,UnitedHealth Group Incorporated,Aurora,United States,17
+905,"Cellular Biomedicine Group, Inc.",Washington,United States,43
+906,"China Ceramics Co., Ltd.",Saint Louis,United States,34
+907,TravelCenters of America LLC,Seattle,United States,24
+908,"Limbach Holdings, Inc.",Baltimore,United States,41
+909,SemiLEDS Corporation,Los Angeles,United States,48
+910,Restaurant Brands International Inc.,El Paso,United States,44
+911,InVivo Therapeutics Holdings Corp.,Tulsa,United States,34
+912,WSI Industries Inc.,Los Angeles,United States,33
+913,PolyOne Corporation,Mesa,United States,26
+914,"Parke Bancorp, Inc.",Murfreesboro,United States,46
+915,"Estee Lauder Companies, Inc. (The)",Minneapolis,United States,31
+916,SemiLEDS Corporation,Jackson,United States,33
+917,"Reinsurance Group of America, Incorporated",Washington,United States,50
+918,Cushing Renaissance Fund (The),Greenville,United States,33
+919,Galectin Therapeutics Inc.,Anniston,United States,26
+920,"PDF Solutions, Inc.",Palmdale,United States,34
+921,"National CineMedia, Inc.",Fullerton,United States,20
+922,Nevro Corp.,Punta Gorda,United States,48
+923,Horizon Bancorp (IN),Laurel,United States,44
+924,"First Business Financial Services, Inc.",Albany,United States,49
+925,"Boston Properties, Inc.",Des Moines,United States,29
+926,Origo Acquisition Corporation,Waco,United States,19
+927,"RF Industries, Ltd.",Washington,United States,29
+928,"Haverty Furniture Companies, Inc.",Chicago,United States,36
+929,Quarterhill Inc.,Omaha,United States,24
+930,Virtus Total Return Fund Inc.,Mountain View,United States,20
+931,"Cohen & Steers Total Return Realty Fund, Inc.",Oceanside,United States,23
+932,Westmoreland Coal Company,Aurora,United States,36
+933,Quest Resource Holding Corporation.,New Haven,United States,50
+934,Otter Tail Corporation,Hartford,United States,42
+935,Global X Health & Wellness Thematic ETF,Arlington,United States,25
+936,Norwegian Cruise Line Holdings Ltd.,Detroit,United States,24
+937,"Industrial Services of America, Inc.",Chicago,United States,19
+938,"QCR Holdings, Inc.",New York City,United States,50
+939,"Ross Stores, Inc.",Akron,United States,33
+940,"Seres Therapeutics, Inc.",Tallahassee,United States,28
+941,"Tortoise Pipeline & Energy Fund, Inc.",Houston,United States,45
+942,Vonage Holdings Corp.,Saint Petersburg,United States,36
+943,Handy & Harman Ltd.,Philadelphia,United States,18
+944,"MercadoLibre, Inc.",San Antonio,United States,18
+945,"Honda Motor Company, Ltd.",Seattle,United States,38
+946,Aegon NV,Hampton,United States,43
+947,"Customers Bancorp, Inc",Philadelphia,United States,41
+948,Great Plains Energy Inc,Rochester,United States,17
+949,SJW Group,Indianapolis,United States,17
+950,California First National Bancorp,Los Angeles,United States,40
+951,"GTT Communications, Inc.",Denver,United States,37
+952,Global X Longevity Thematic ETF,Decatur,United States,46
+953,HSBC Holdings plc,Garden Grove,United States,25
+954,Dynagas LNG Partners LP,Newport Beach,United States,45
+955,Diversicare Healthcare Services Inc.,New York City,United States,17
+956,"Red Hat, Inc.",Tampa,United States,23
+957,"MabVax Therapeutics Holdings, Inc.",Rochester,United States,21
+958,Jacksonville Bancorp Inc.,Tacoma,United States,43
+959,Pitney Bowes Inc.,Maple Plain,United States,41
+960,United Community Bancorp,Albuquerque,United States,28
+961,"Ecology and Environment, Inc.",Houston,United States,20
+962,iShares FTSE EPRA/NAREIT Europe Index Fund,Nashville,United States,17
+963,North European Oil Royality Trust,Miami,United States,39
+964,The First of Long Island Corporation,Pensacola,United States,17
+965,Atlantic Power Corporation,Detroit,United States,21
+966,"First Mid-Illinois Bancshares, Inc.",Richmond,United States,43
+967,Essent Group Ltd.,Charlotte,United States,23
+968,Atlas Air Worldwide Holdings,Orlando,United States,46
+969,"Trevena, Inc.",Little Rock,United States,49
+970,Datawatch Corporation,Sacramento,United States,16
+971,"Dunkin' Brands Group, Inc.",Saint Petersburg,United States,38
+972,Colonial Intermediate High Income Fund,Durham,United States,30
+973,"Stanley Furniture Company, Inc.",Boise,United States,50
+974,Chesapeake Energy Corporation,Charlottesville,United States,15
+975,Verizon Communications Inc.,Fort Smith,United States,24
+976,"ALJ Regional Holdings, Inc.",Boise,United States,27
+977,Rowan Companies plc,Fort Worth,United States,45
+978,"Cypress Energy Partners, L.P.",Las Vegas,United States,26
+979,AGNC Investment Corp.,Detroit,United States,20
+980,8x8 Inc,Wichita,United States,39
+981,"SB Financial Group, Inc.",Phoenix,United States,46
+982,Zix Corporation,Columbia,United States,23
+983,"Validus Holdings, Ltd.",Erie,United States,18
+984,"Unity Bancorp, Inc.",Saint Louis,United States,39
+985,"WellCare Health Plans, Inc.",Sioux Falls,United States,16
+986,EPR Properties,Hamilton,United States,24
+987,"AvalonBay Communities, Inc.",Norwalk,United States,34
+988,"MobileIron, Inc.",Port Washington,United States,45
+989,Ferrari N.V.,Raleigh,United States,42
+990,VictoryShares US Large Cap High Div Volatility Wtd ETF,Springfield,United States,26
+991,Southern California Edison Company,San Jose,United States,17
+992,VelocityShares VIX Medium-Term ETN,Sacramento,United States,19
+993,Destination Maternity Corporation,Kansas City,United States,49
+994,Electrum Special Acquisition Corporation,Tampa,United States,25
+995,"United Natural Foods, Inc.",Orlando,United States,25
+996,Navios Maritime Holdings Inc.,Baton Rouge,United States,50
+997,Service Corporation International,Newark,United States,39
+998,"American Eagle Outfitters, Inc.",San Diego,United States,44
+999,DDR Corp.,Savannah,United States,22
+1000,Physicians Realty Trust,Tacoma,United States,33

@@ -1,0 +1,1001 @@
+ID_Vehiculo,Tipo_vehiculo,Marca,Modelo,Año,Capacidad
+1,cubilia curae duis faucibus accumsan odio,Subaru,Tribeca,2009,6
+2,arcu sed augue aliquam erat volutpat in,Mercury,Marauder,2003,1
+3,nulla suscipit ligula in lacus curabitur at ipsum ac tellus,Volvo,V70,1998,5
+4,hac habitasse platea dictumst morbi vestibulum velit id pretium,Maybach,57S,2005,2
+5,fermentum donec ut mauris eget massa tempor,Eagle,Vision,1995,3
+6,porta volutpat erat quisque erat eros viverra eget congue,Pontiac,Firebird Formula,1992,3
+7,sit amet consectetuer adipiscing elit proin,Pontiac,Grand Am,1988,4
+8,amet cursus id turpis integer aliquet massa id lobortis,Ford,F250,2005,4
+9,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae,Pontiac,Torrent,2007,1
+10,ut blandit non interdum in ante vestibulum ante ipsum,Oldsmobile,Toronado,1992,6
+11,nisl venenatis lacinia aenean sit amet justo morbi ut,Audi,200,1990,5
+12,in faucibus orci luctus et,Toyota,Solara,2007,3
+13,purus sit amet nulla quisque,Kia,Spectra,2007,4
+14,sapien cursus vestibulum proin eu mi nulla ac enim,Nissan,Frontier,2000,4
+15,velit eu est congue elementum in hac habitasse platea,Buick,Somerset,1987,1
+16,potenti cras in purus eu magna vulputate,Lotus,Elan,1990,7
+17,ultricies eu nibh quisque id justo sit amet,Honda,Odyssey,2007,1
+18,molestie lorem quisque ut erat curabitur gravida nisi,Mitsubishi,Galant,1991,5
+19,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices,Jeep,Wrangler,2004,6
+20,cum sociis natoque penatibus et magnis dis parturient montes nascetur,Buick,Terraza,2005,7
+21,pede ullamcorper augue a suscipit nulla elit ac,GMC,Envoy,2004,5
+22,volutpat convallis morbi odio odio,GMC,Jimmy,1999,1
+23,donec semper sapien a libero,Plymouth,Voyager,1998,2
+24,cras in purus eu magna vulputate luctus cum,Toyota,4Runner,2008,6
+25,a odio in hac habitasse platea dictumst,Dodge,Ram 3500,1998,1
+26,primis in faucibus orci luctus et ultrices,Chevrolet,Corsica,1994,3
+27,adipiscing molestie hendrerit at vulputate vitae nisl aenean,Nissan,NV2500,2012,6
+28,leo odio condimentum id luctus nec molestie,Acura,MDX,2002,1
+29,dolor morbi vel lectus in quam fringilla rhoncus,Infiniti,I,1998,5
+30,a feugiat et eros vestibulum ac,GMC,Envoy,2000,4
+31,vestibulum vestibulum ante ipsum primis in,Jaguar,XK Series,1997,7
+32,sem praesent id massa id nisl venenatis lacinia aenean,BMW,Z4 M Roadster,2009,3
+33,a suscipit nulla elit ac nulla,Chevrolet,Impala,2012,4
+34,erat curabitur gravida nisi at nibh in hac habitasse,Honda,Insight,2012,6
+35,tortor id nulla ultrices aliquet maecenas,Lotus,Esprit,2002,3
+36,fringilla rhoncus mauris enim leo rhoncus sed,Dodge,Dakota Club,2002,7
+37,id sapien in sapien iaculis congue vivamus,Pontiac,Sunfire,1995,7
+38,proin risus praesent lectus vestibulum,Audi,80,1992,2
+39,duis ac nibh fusce lacus purus aliquet at,Chevrolet,Suburban 2500,2004,3
+40,platea dictumst etiam faucibus cursus urna ut tellus nulla ut,Nissan,NX,1993,6
+41,pretium quis lectus suspendisse potenti in,Chevrolet,Silverado 3500,2005,7
+42,commodo placerat praesent blandit nam nulla integer pede,Volkswagen,Cabriolet,1995,3
+43,id pretium iaculis diam erat fermentum justo,Nissan,Altima,2002,5
+44,vitae quam suspendisse potenti nullam porttitor lacus,Infiniti,G,2005,6
+45,feugiat et eros vestibulum ac est lacinia nisi,Ford,Explorer Sport Trac,2003,4
+46,sagittis sapien cum sociis natoque penatibus et magnis dis parturient,BMW,M3,2001,1
+47,semper rutrum nulla nunc purus phasellus in felis,BMW,750,2006,4
+48,luctus ultricies eu nibh quisque id justo,Eagle,Talon,1997,4
+49,nisl nunc rhoncus dui vel sem sed,Pontiac,Grand Prix,1982,6
+50,ac tellus semper interdum mauris ullamcorper purus sit,Buick,Regal,1987,5
+51,blandit non interdum in ante vestibulum,Cadillac,Escalade EXT,2008,7
+52,fusce consequat nulla nisl nunc nisl duis bibendum felis,Mercury,Grand Marquis,1989,6
+53,dapibus at diam nam tristique tortor eu,Suzuki,Sidekick,1993,2
+54,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam,GMC,2500 Club Coupe,1997,3
+55,vitae consectetuer eget rutrum at lorem integer tincidunt,Buick,Coachbuilder,1994,4
+56,ut odio cras mi pede,Mazda,MX-6,1994,3
+57,convallis morbi odio odio elementum eu interdum eu,Lincoln,LS,2003,5
+58,parturient montes nascetur ridiculus mus etiam vel,Lexus,IS,2006,5
+59,lacus curabitur at ipsum ac tellus semper interdum,Mitsubishi,Lancer,2004,4
+60,accumsan odio curabitur convallis duis consequat dui nec,Ford,Econoline E250,1995,5
+61,sed magna at nunc commodo placerat,Chevrolet,Camaro,2010,5
+62,felis donec semper sapien a libero,Nissan,Titan,2005,7
+63,at ipsum ac tellus semper interdum mauris ullamcorper purus sit,Mercury,Milan,2011,7
+64,ridiculus mus vivamus vestibulum sagittis sapien cum,Saab,900,1986,6
+65,non quam nec dui luctus rutrum nulla tellus,Toyota,Tacoma,1996,1
+66,eros viverra eget congue eget semper rutrum nulla nunc purus,Volkswagen,Golf,1984,6
+67,turpis adipiscing lorem vitae mattis nibh,Plymouth,Colt Vista,1992,2
+68,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer,GMC,Savana 1500,2005,4
+69,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue,Chevrolet,Impala,2003,1
+70,sit amet nunc viverra dapibus nulla,Dodge,Caliber,2010,2
+71,tincidunt in leo maecenas pulvinar lobortis,Volvo,S80,2005,7
+72,ligula vehicula consequat morbi a ipsum integer a,Chevrolet,2500,1993,6
+73,eget eros elementum pellentesque quisque porta,Kia,Soul,2011,6
+74,sapien iaculis congue vivamus metus arcu adipiscing,Scion,xD,2010,7
+75,duis ac nibh fusce lacus purus aliquet at feugiat non,Chevrolet,HHR,2006,6
+76,nulla justo aliquam quis turpis,Ford,F350,1997,5
+77,aenean auctor gravida sem praesent id massa id nisl,Mazda,929,1990,5
+78,ut nulla sed accumsan felis ut at dolor quis,Mercedes-Benz,E-Class,2000,4
+79,pretium quis lectus suspendisse potenti in eleifend quam a,Nissan,Armada,2010,5
+80,purus sit amet nulla quisque arcu libero rutrum,Eagle,Vision,1994,6
+81,libero non mattis pulvinar nulla pede ullamcorper,Mitsubishi,Truck,1990,1
+82,ultrices posuere cubilia curae donec,Oldsmobile,LSS,1997,6
+83,nulla nisl nunc nisl duis bibendum,Chrysler,New Yorker,1996,2
+84,vel ipsum praesent blandit lacinia erat,Chrysler,Sebring,2004,3
+85,ac nibh fusce lacus purus aliquet at feugiat,Lincoln,Navigator,2006,3
+86,nulla facilisi cras non velit nec,Acura,TL,2008,3
+87,turpis eget elit sodales scelerisque mauris sit amet,Oldsmobile,Bravada,1994,2
+88,ligula suspendisse ornare consequat lectus in est,Audi,Coupe GT,1985,4
+89,lobortis convallis tortor risus dapibus augue vel accumsan,Lincoln,Mark LT,2008,6
+90,consequat ut nulla sed accumsan felis ut at dolor,Mitsubishi,RVR,1994,5
+91,odio curabitur convallis duis consequat dui nec,Mitsubishi,Mirage,1991,3
+92,pretium iaculis justo in hac habitasse platea,Dodge,Sprinter,2008,1
+93,amet eros suspendisse accumsan tortor quis turpis sed ante,Suzuki,Vitara,2003,5
+94,adipiscing elit proin interdum mauris,Buick,Lucerne,2006,1
+95,duis ac nibh fusce lacus purus aliquet at feugiat non,Ford,GT,2006,4
+96,rhoncus mauris enim leo rhoncus sed,Ford,F-Series Super Duty,2012,1
+97,metus vitae ipsum aliquam non mauris,Hyundai,Accent,1999,4
+98,felis donec semper sapien a,Hyundai,Santa Fe,2012,1
+99,donec ut mauris eget massa tempor convallis nulla,Suzuki,Swift,1995,7
+100,eu sapien cursus vestibulum proin eu mi nulla,Dodge,Ram 2500,2000,6
+101,sem duis aliquam convallis nunc proin at turpis a,Audi,Q7,2012,4
+102,sit amet nulla quisque arcu,Chevrolet,Camaro,2010,6
+103,id ligula suspendisse ornare consequat lectus in est risus auctor,Hyundai,Accent,1998,6
+104,convallis tortor risus dapibus augue vel,GMC,Yukon,2001,7
+105,odio condimentum id luctus nec molestie sed justo pellentesque viverra,Buick,Park Avenue,2001,5
+106,ipsum dolor sit amet consectetuer adipiscing elit,Lincoln,Navigator,1999,1
+107,blandit lacinia erat vestibulum sed magna at nunc,Subaru,Forester,1998,7
+108,posuere nonummy integer non velit donec,Infiniti,EX,2008,4
+109,blandit ultrices enim lorem ipsum,Mercedes-Benz,SL-Class,2002,1
+110,quisque ut erat curabitur gravida nisi at,Ford,Taurus,2003,1
+111,natoque penatibus et magnis dis parturient,Chrysler,300,1999,2
+112,consequat in consequat ut nulla sed accumsan felis,Hyundai,Tucson,2011,4
+113,faucibus orci luctus et ultrices posuere,Alfa Romeo,164,1993,4
+114,lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,Ford,Taurus,2010,7
+115,ipsum ac tellus semper interdum,Ram,1500,2012,3
+116,dolor sit amet consectetuer adipiscing elit proin interdum mauris,Mazda,Millenia,2000,2
+117,sit amet nulla quisque arcu,Chrysler,300,2005,3
+118,quis odio consequat varius integer,Lincoln,Continental Mark VII,1991,4
+119,ornare imperdiet sapien urna pretium nisl,Lexus,RX,2006,1
+120,sit amet sem fusce consequat nulla,Pontiac,Gemini,1989,5
+121,volutpat dui maecenas tristique est et tempus semper est quam,Subaru,XT,1986,3
+122,justo eu massa donec dapibus duis at,Volvo,S60,2004,5
+123,posuere metus vitae ipsum aliquam non mauris morbi non lectus,Mercedes-Benz,C-Class,1994,3
+124,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,GMC,Rally Wagon 1500,1992,7
+125,tempus sit amet sem fusce consequat,Audi,V8,1994,1
+126,dui vel sem sed sagittis nam congue risus semper,Chevrolet,Monte Carlo,2004,3
+127,enim in tempor turpis nec euismod scelerisque quam,Lamborghini,Countach,1989,3
+128,donec vitae nisi nam ultrices libero non mattis pulvinar nulla,Mercury,Sable,1993,5
+129,ut tellus nulla ut erat id mauris vulputate elementum,Pontiac,GTO,1971,5
+130,a pede posuere nonummy integer non velit donec,Infiniti,G,2010,6
+131,donec dapibus duis at velit eu est congue elementum,Chevrolet,Silverado 1500,2005,4
+132,vulputate vitae nisl aenean lectus pellentesque,Acura,RDX,2009,7
+133,justo etiam pretium iaculis justo in hac habitasse platea dictumst,Mercedes-Benz,G55 AMG,2006,5
+134,quisque arcu libero rutrum ac lobortis vel dapibus,Ford,Laser,1989,2
+135,felis fusce posuere felis sed lacus morbi sem mauris laoreet,Lexus,LX,2004,7
+136,praesent lectus vestibulum quam sapien varius ut blandit non interdum,Ferrari,458 Italia,2012,6
+137,ultrices libero non mattis pulvinar nulla pede ullamcorper,Mitsubishi,Truck,1989,1
+138,suscipit a feugiat et eros vestibulum ac est lacinia nisi,Land Rover,Freelander,2008,7
+139,sed magna at nunc commodo placerat praesent blandit,GMC,Sonoma Club Coupe,1998,7
+140,sit amet eleifend pede libero quis orci nullam,GMC,Sonoma,1997,5
+141,in faucibus orci luctus et ultrices posuere cubilia curae,Ford,Courier,1988,4
+142,non mi integer ac neque duis bibendum morbi,Land Rover,Discovery,2012,1
+143,quam sapien varius ut blandit non interdum in ante,Buick,Skyhawk,1987,4
+144,tristique in tempus sit amet sem fusce consequat,Saturn,VUE,2006,3
+145,elit proin interdum mauris non ligula,Cadillac,STS,2010,5
+146,enim leo rhoncus sed vestibulum sit amet cursus,Buick,Coachbuilder,1995,7
+147,nibh in lectus pellentesque at,Land Rover,Range Rover,2006,6
+148,viverra diam vitae quam suspendisse potenti nullam,Mercedes-Benz,E-Class,2001,2
+149,quis orci nullam molestie nibh,Land Rover,LR2,2010,6
+150,odio consequat varius integer ac,Buick,Rendezvous,2006,1
+151,auctor sed tristique in tempus sit amet sem fusce,Pontiac,Vibe,2006,7
+152,sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in,Kia,Sportage,2011,6
+153,morbi vel lectus in quam fringilla,Geo,Tracker,1993,4
+154,congue diam id ornare imperdiet,Toyota,RAV4,1996,4
+155,est congue elementum in hac habitasse platea,Pontiac,Aztek,2003,7
+156,molestie hendrerit at vulputate vitae nisl aenean lectus,Land Rover,Defender 110,1993,1
+157,tristique in tempus sit amet,Oldsmobile,Ciera,1993,4
+158,erat curabitur gravida nisi at,Dodge,Ram 2500 Club,1996,2
+159,ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,Subaru,Leone,1989,2
+160,vivamus in felis eu sapien cursus vestibulum proin,Mercury,Mountaineer,2002,5
+161,lectus vestibulum quam sapien varius ut blandit non interdum,Volvo,V40,2003,2
+162,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue,GMC,1500,1997,2
+163,erat nulla tempus vivamus in felis eu sapien,Mercedes-Benz,CLK-Class,2007,2
+164,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla,Mazda,Mazda6,2006,1
+165,suscipit a feugiat et eros,Dodge,Dakota,2001,5
+166,orci eget orci vehicula condimentum curabitur in,Honda,Insight,2005,1
+167,pede malesuada in imperdiet et commodo,Mitsubishi,Pajero,1986,4
+168,penatibus et magnis dis parturient montes nascetur ridiculus,Subaru,SVX,1997,7
+169,phasellus id sapien in sapien,Dodge,Ram 1500,2004,3
+170,accumsan tortor quis turpis sed ante vivamus,Honda,Odyssey,1995,2
+171,purus aliquet at feugiat non pretium quis lectus suspendisse potenti,Ford,F-Series,2010,6
+172,sagittis nam congue risus semper porta volutpat,Infiniti,J,1996,2
+173,in quis justo maecenas rhoncus aliquam lacus morbi,Oldsmobile,Achieva,1992,7
+174,vestibulum ante ipsum primis in faucibus orci luctus,Audi,S8,2007,7
+175,sapien cursus vestibulum proin eu,Chevrolet,Camaro,1971,4
+176,velit nec nisi vulputate nonummy,Toyota,Tacoma,2012,1
+177,vel accumsan tellus nisi eu orci mauris,Scion,xD,2009,2
+178,iaculis diam erat fermentum justo nec condimentum neque,Audi,RS 4,2008,4
+179,non quam nec dui luctus rutrum nulla tellus in,Oldsmobile,Silhouette,1995,2
+180,lorem vitae mattis nibh ligula,Buick,Park Avenue,2005,1
+181,pretium iaculis diam erat fermentum justo nec condimentum neque,Foose,Hemisfear,2007,3
+182,diam cras pellentesque volutpat dui maecenas tristique est,Porsche,Boxster,2005,6
+183,consequat ut nulla sed accumsan felis ut at dolor quis,Chevrolet,Colorado,2007,7
+184,imperdiet et commodo vulputate justo in blandit ultrices enim,Ford,Mustang,2008,4
+185,tortor sollicitudin mi sit amet lobortis sapien sapien,Suzuki,XL7,2009,4
+186,aenean auctor gravida sem praesent,Ford,Bronco,1986,4
+187,vel pede morbi porttitor lorem id ligula suspendisse ornare consequat,Subaru,Impreza,1995,2
+188,amet consectetuer adipiscing elit proin interdum mauris non,Audi,V8,1994,7
+189,libero convallis eget eleifend luctus,Hyundai,Santa Fe,2010,2
+190,rhoncus dui vel sem sed sagittis nam congue risus semper,Land Rover,Discovery,1995,2
+191,ante vestibulum ante ipsum primis in faucibus,Dodge,Intrepid,1999,6
+192,dolor vel est donec odio justo sollicitudin ut,Pontiac,Grand Am,1987,3
+193,integer pede justo lacinia eget,Toyota,Tercel,1998,4
+194,vehicula condimentum curabitur in libero ut massa volutpat,Lamborghini,Gallardo,2004,6
+195,enim sit amet nunc viverra dapibus,Oldsmobile,Aurora,1996,2
+196,massa id lobortis convallis tortor risus,Chevrolet,Volt,2011,2
+197,viverra diam vitae quam suspendisse potenti nullam porttitor lacus at,Mitsubishi,Chariot,1994,7
+198,augue vel accumsan tellus nisi eu orci mauris,Dodge,Ram 1500,1998,7
+199,erat eros viverra eget congue eget semper,Suzuki,Swift,1998,6
+200,mattis pulvinar nulla pede ullamcorper augue a,Audi,5000CS,1988,6
+201,sed accumsan felis ut at,Kia,Spectra,2008,5
+202,consectetuer eget rutrum at lorem integer tincidunt ante,Nissan,350Z,2008,2
+203,dapibus nulla suscipit ligula in lacus curabitur at,Ford,Excursion,2001,4
+204,feugiat et eros vestibulum ac est,Toyota,Land Cruiser,2005,7
+205,posuere cubilia curae duis faucibus accumsan odio curabitur,Honda,Civic,2012,5
+206,lacus curabitur at ipsum ac tellus,Dodge,Intrepid,1994,3
+207,convallis tortor risus dapibus augue vel accumsan tellus,Nissan,Altima,1999,3
+208,eget semper rutrum nulla nunc purus phasellus in,Scion,tC,2005,2
+209,in magna bibendum imperdiet nullam orci pede venenatis,Mercury,Mariner,2008,7
+210,pede ullamcorper augue a suscipit nulla elit ac nulla sed,Mitsubishi,GTO,1994,1
+211,sapien cum sociis natoque penatibus,Oldsmobile,88,1998,5
+212,ac consequat metus sapien ut,Volkswagen,GTI,1995,7
+213,mauris sit amet eros suspendisse accumsan tortor,BMW,5 Series,2009,3
+214,aliquam augue quam sollicitudin vitae consectetuer eget rutrum,Cadillac,Seville,1992,1
+215,interdum venenatis turpis enim blandit,Ram,2500,2012,2
+216,tincidunt eu felis fusce posuere felis,Mitsubishi,Lancer Evolution,2003,1
+217,sit amet lobortis sapien sapien non,Isuzu,Ascender,2005,5
+218,orci luctus et ultrices posuere cubilia curae duis faucibus,Lexus,IS F,2010,1
+219,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,BMW,X6,2012,2
+220,blandit mi in porttitor pede,Ford,E250,2004,1
+221,rhoncus mauris enim leo rhoncus sed vestibulum sit,Nissan,Frontier,2000,6
+222,in congue etiam justo etiam pretium iaculis justo in hac,Nissan,Maxima,2009,3
+223,vestibulum velit id pretium iaculis diam erat fermentum,Nissan,Frontier,2011,2
+224,convallis eget eleifend luctus ultricies eu nibh quisque id,Lamborghini,Countach,1990,6
+225,sapien a libero nam dui,GMC,Vandura 2500,1994,3
+226,ut nunc vestibulum ante ipsum primis in faucibus orci,Jeep,Wrangler,1998,6
+227,aliquam quis turpis eget elit,Mercury,Mariner,2010,5
+228,sagittis sapien cum sociis natoque,Mercedes-Benz,CL-Class,2011,3
+229,mauris lacinia sapien quis libero nullam,Geo,Prizm,1992,6
+230,eget rutrum at lorem integer tincidunt ante vel ipsum praesent,Ford,Mustang,2007,3
+231,semper sapien a libero nam dui proin leo odio,Chevrolet,Cobalt,2007,3
+232,potenti cras in purus eu magna vulputate luctus cum,Mercury,Marquis,1986,5
+233,eros vestibulum ac est lacinia nisi venenatis,Nissan,300ZX,1994,2
+234,quis tortor id nulla ultrices,Dodge,Dakota,2001,4
+235,nam nulla integer pede justo lacinia eget tincidunt eget tempus,Chevrolet,Silverado,2011,1
+236,id lobortis convallis tortor risus dapibus augue,Pontiac,Firefly,1987,2
+237,consequat varius integer ac leo pellentesque ultrices mattis odio donec,GMC,Envoy,2000,4
+238,ligula in lacus curabitur at ipsum ac tellus semper interdum,Lincoln,Mark VII,1992,3
+239,sapien cum sociis natoque penatibus et magnis dis parturient montes,Ford,E-Series,1988,6
+240,sit amet nulla quisque arcu libero rutrum,Volvo,V70,2004,4
+241,sed vestibulum sit amet cursus,BMW,545,2005,3
+242,in ante vestibulum ante ipsum primis in faucibus orci luctus,Rolls-Royce,Phantom,2013,1
+243,sit amet diam in magna bibendum imperdiet nullam orci,Chevrolet,Silverado Hybrid,2006,5
+244,congue etiam justo etiam pretium iaculis justo in,Chevrolet,TrailBlazer,2008,3
+245,suspendisse potenti nullam porttitor lacus,Nissan,Rogue,2012,6
+246,platea dictumst maecenas ut massa,Lotus,Esprit,1986,2
+247,at nulla suspendisse potenti cras in purus eu magna vulputate,Volvo,C70,2003,3
+248,at nulla suspendisse potenti cras in purus eu,GMC,Suburban 2500,1997,3
+249,phasellus id sapien in sapien iaculis congue vivamus metus,Mazda,Mazda3,2006,7
+250,amet turpis elementum ligula vehicula consequat morbi,Ford,Thunderbird,1958,1
+251,elementum nullam varius nulla facilisi cras non velit nec,Aston Martin,Rapide,2012,3
+252,id mauris vulputate elementum nullam varius nulla facilisi cras non,BMW,X3,2008,1
+253,rutrum rutrum neque aenean auctor gravida,Toyota,Prius,2010,4
+254,nec molestie sed justo pellentesque viverra pede ac,Volvo,C70,2012,4
+255,convallis morbi odio odio elementum eu interdum eu tincidunt,Chevrolet,1500,1992,7
+256,sit amet turpis elementum ligula vehicula consequat morbi a ipsum,Infiniti,G35,2008,3
+257,nulla integer pede justo lacinia eget tincidunt eget tempus vel,GMC,Sierra 1500,2012,5
+258,at nulla suspendisse potenti cras in purus,Ford,Crown Victoria,2002,7
+259,lacinia erat vestibulum sed magna at,Ford,Explorer,2002,3
+260,odio cras mi pede malesuada in imperdiet,Ford,Excursion,2004,6
+261,leo pellentesque ultrices mattis odio donec vitae,Volkswagen,Jetta,1996,6
+262,donec pharetra magna vestibulum aliquet ultrices erat tortor,Chevrolet,G-Series 1500,1997,3
+263,mattis nibh ligula nec sem duis aliquam,Ford,Econoline E150,2001,7
+264,dapibus duis at velit eu est congue elementum in,Maybach,62,2004,3
+265,ipsum primis in faucibus orci luctus et,Nissan,350Z Roadster,2006,2
+266,nullam orci pede venenatis non sodales sed,Volkswagen,Jetta,2007,5
+267,volutpat erat quisque erat eros viverra,Jeep,Cherokee,2001,4
+268,scelerisque mauris sit amet eros,Volkswagen,Golf,2011,2
+269,sit amet eros suspendisse accumsan tortor quis turpis sed ante,Lotus,Esprit,2002,1
+270,rutrum rutrum neque aenean auctor gravida sem praesent,Acura,Legend,1987,5
+271,suspendisse ornare consequat lectus in est risus,Mazda,B-Series Plus,1994,2
+272,duis at velit eu est congue elementum,Mercury,Tracer,1999,5
+273,pulvinar nulla pede ullamcorper augue a suscipit nulla elit,GMC,Sierra,2011,7
+274,at velit eu est congue elementum in hac,Ford,Contour,1997,6
+275,lacinia nisi venenatis tristique fusce congue diam id,Jeep,Liberty,2002,3
+276,nulla quisque arcu libero rutrum ac lobortis vel dapibus at,GMC,1500 Club Coupe,1993,4
+277,erat tortor sollicitudin mi sit amet lobortis sapien sapien,Cadillac,Fleetwood,1995,4
+278,quisque arcu libero rutrum ac lobortis,Isuzu,Impulse,1992,7
+279,tortor sollicitudin mi sit amet lobortis,Nissan,Titan,2011,4
+280,tortor duis mattis egestas metus aenean fermentum donec ut mauris,Lotus,Esprit,1995,4
+281,nibh in quis justo maecenas,Dodge,Viper,1996,3
+282,habitasse platea dictumst maecenas ut massa,Hyundai,Elantra,2004,7
+283,fusce congue diam id ornare imperdiet sapien urna pretium,Chrysler,Town & Country,2004,2
+284,sed justo pellentesque viverra pede ac diam cras pellentesque volutpat,Mitsubishi,Pajero,1984,2
+285,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur,Ford,E150,1984,6
+286,eget orci vehicula condimentum curabitur in libero ut massa volutpat,Hyundai,Excel,1993,7
+287,eget massa tempor convallis nulla neque libero convallis eget,Dodge,Stratus,2002,5
+288,donec dapibus duis at velit eu est congue elementum in,Infiniti,I,2004,5
+289,sed sagittis nam congue risus semper porta volutpat quam,Ford,Focus,2000,5
+290,potenti nullam porttitor lacus at turpis donec posuere metus vitae,Chevrolet,2500,1993,2
+291,nulla suscipit ligula in lacus curabitur at ipsum ac,BMW,550,2006,2
+292,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia,Dodge,Viper,1998,1
+293,sapien non mi integer ac neque,Audi,S8,2008,1
+294,nullam molestie nibh in lectus pellentesque,Chevrolet,Camaro,2001,6
+295,donec ut dolor morbi vel lectus in quam,Volkswagen,Cabriolet,1997,2
+296,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,Ford,Thunderbird,2003,6
+297,natoque penatibus et magnis dis parturient,Eagle,Summit,1994,6
+298,potenti in eleifend quam a,Ford,Torino,1970,6
+299,praesent blandit nam nulla integer pede justo lacinia,Subaru,Baja,2003,7
+300,nibh in lectus pellentesque at nulla suspendisse,Volkswagen,Tiguan,2009,6
+301,sit amet eleifend pede libero quis,Saab,9-3,2012,6
+302,duis faucibus accumsan odio curabitur convallis,Honda,Prelude,1994,6
+303,id ligula suspendisse ornare consequat lectus in est,Maybach,Landaulet,2011,5
+304,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit,Chevrolet,Suburban 1500,2001,7
+305,turpis elementum ligula vehicula consequat morbi a ipsum integer a,Ford,Laser,1987,4
+306,dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,Infiniti,G,1999,2
+307,morbi non quam nec dui,Toyota,Prius,2010,4
+308,et ultrices posuere cubilia curae mauris viverra,Ford,Explorer,1996,7
+309,sapien cursus vestibulum proin eu,Honda,Civic,1988,7
+310,at diam nam tristique tortor eu,Suzuki,Aerio,2004,3
+311,donec semper sapien a libero nam dui proin leo,Audi,90,1989,6
+312,ante vel ipsum praesent blandit lacinia erat vestibulum,GMC,Sierra 2500,2006,1
+313,est phasellus sit amet erat nulla tempus vivamus,Chevrolet,Sportvan G20,1992,7
+314,non velit nec nisi vulputate nonummy maecenas tincidunt lacus,Volvo,S80,2009,4
+315,dictumst morbi vestibulum velit id pretium iaculis diam erat,Isuzu,Rodeo,2001,4
+316,neque duis bibendum morbi non quam nec dui luctus rutrum,Volkswagen,Jetta,2001,1
+317,a odio in hac habitasse,Hummer,H2,2006,3
+318,vel pede morbi porttitor lorem id ligula,Dodge,Ram Van 2500,1998,4
+319,at dolor quis odio consequat varius integer ac,Dodge,Magnum,2005,7
+320,amet nulla quisque arcu libero rutrum ac lobortis vel,Mercedes-Benz,W201,1984,2
+321,donec semper sapien a libero,Ford,Taurus,2008,6
+322,et magnis dis parturient montes nascetur ridiculus,Mercury,Mountaineer,2001,7
+323,ut mauris eget massa tempor convallis,Volvo,S80,2007,5
+324,nec molestie sed justo pellentesque,Nissan,Frontier,2009,5
+325,vivamus in felis eu sapien cursus vestibulum proin eu mi,Chrysler,Crossfire,2004,6
+326,urna ut tellus nulla ut erat id mauris vulputate,Ford,Festiva,1991,1
+327,elit ac nulla sed vel enim sit amet nunc,Volkswagen,GTI,2004,7
+328,ornare imperdiet sapien urna pretium,Mazda,RX-7,1985,3
+329,cubilia curae mauris viverra diam vitae quam suspendisse potenti,Buick,Electra,1985,1
+330,nec nisi vulputate nonummy maecenas tincidunt lacus,Ford,LTD Crown Victoria,1993,7
+331,nulla pede ullamcorper augue a suscipit nulla elit,Mazda,Miata MX-5,2008,7
+332,id mauris vulputate elementum nullam varius nulla facilisi,Nissan,JUKE,2011,6
+333,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget,Ford,F-Series,1996,4
+334,cras in purus eu magna vulputate luctus cum,Mazda,MX-3,1994,7
+335,luctus et ultrices posuere cubilia,Jeep,Wrangler,2003,7
+336,in hac habitasse platea dictumst morbi vestibulum velit id,Citroën,CX,1989,6
+337,lobortis ligula sit amet eleifend pede libero quis orci,Pontiac,GTO,1969,1
+338,donec posuere metus vitae ipsum aliquam non mauris morbi non,Volvo,C70,2002,7
+339,pulvinar sed nisl nunc rhoncus dui,Audi,A4,2010,1
+340,diam vitae quam suspendisse potenti nullam porttitor lacus,Chevrolet,Express 1500,2003,4
+341,laoreet ut rhoncus aliquet pulvinar sed nisl,Dodge,Durango,2011,6
+342,justo morbi ut odio cras mi,Porsche,944,1990,3
+343,pellentesque quisque porta volutpat erat quisque,Rolls-Royce,Phantom,2009,7
+344,ut massa volutpat convallis morbi,Dodge,Caravan,2004,4
+345,tempor convallis nulla neque libero,Chevrolet,Express,2011,5
+346,ac nibh fusce lacus purus aliquet at feugiat non,Dodge,Caravan,1993,5
+347,cubilia curae nulla dapibus dolor vel est donec odio,Acura,MDX,2001,7
+348,sed nisl nunc rhoncus dui vel sem sed sagittis,Chevrolet,Corvette,2000,3
+349,integer ac neque duis bibendum morbi non quam,Mitsubishi,Diamante,2001,3
+350,est risus auctor sed tristique in tempus sit amet sem,Chevrolet,Silverado,2011,6
+351,pede ac diam cras pellentesque volutpat dui maecenas tristique,Mercedes-Benz,SL-Class,1988,3
+352,lorem integer tincidunt ante vel ipsum praesent blandit,Pontiac,GTO,1966,1
+353,posuere cubilia curae duis faucibus accumsan odio curabitur convallis,Volvo,S80,2010,4
+354,nulla neque libero convallis eget eleifend,Honda,Civic,1993,1
+355,erat fermentum justo nec condimentum neque sapien placerat ante,Dodge,Caravan,2009,5
+356,magna ac consequat metus sapien ut,Volvo,C70,2000,3
+357,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis,Volvo,V90,1997,4
+358,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum,Nissan,Xterra,2009,5
+359,porttitor id consequat in consequat ut nulla sed accumsan,Dodge,Grand Caravan,1994,2
+360,non ligula pellentesque ultrices phasellus,Land Rover,LR2,2010,3
+361,sollicitudin mi sit amet lobortis sapien sapien non mi,Toyota,Highlander,2003,4
+362,libero nam dui proin leo odio porttitor id,Ford,Focus,2008,1
+363,dis parturient montes nascetur ridiculus mus etiam,Infiniti,EX,2008,6
+364,viverra pede ac diam cras pellentesque volutpat dui maecenas,Toyota,Tacoma,1999,3
+365,vitae ipsum aliquam non mauris morbi,Cadillac,Fleetwood,1995,4
+366,dui proin leo odio porttitor id,Jeep,Grand Cherokee,2005,1
+367,ut nunc vestibulum ante ipsum,Mercury,Capri,1985,6
+368,iaculis congue vivamus metus arcu adipiscing,Volvo,S60,2001,6
+369,sociis natoque penatibus et magnis,Pontiac,Torrent,2008,4
+370,amet sapien dignissim vestibulum vestibulum ante ipsum,Dodge,Ram 50,1993,4
+371,vivamus vestibulum sagittis sapien cum sociis natoque penatibus,Chrysler,New Yorker,1996,4
+372,nonummy integer non velit donec diam neque vestibulum eget vulputate,Mitsubishi,Challenger,2004,4
+373,quam sapien varius ut blandit non interdum in ante,Audi,V8,1991,5
+374,neque aenean auctor gravida sem praesent id massa,Ford,Mustang,1995,4
+375,maecenas tristique est et tempus semper est,Lincoln,Mark VIII,1997,6
+376,sem fusce consequat nulla nisl nunc nisl,Ford,F-Series,2002,6
+377,in consequat ut nulla sed accumsan felis ut at dolor,Toyota,Highlander,2006,1
+378,sapien a libero nam dui proin leo,Pontiac,Firebird,1967,1
+379,odio odio elementum eu interdum eu,BMW,1 Series,2010,4
+380,sapien iaculis congue vivamus metus arcu adipiscing,Chevrolet,Suburban 2500,2006,6
+381,donec semper sapien a libero nam dui proin leo odio,Mitsubishi,Galant,1997,2
+382,sapien placerat ante nulla justo aliquam,Porsche,Cayenne,2013,3
+383,at diam nam tristique tortor,Saturn,Outlook,2007,4
+384,interdum in ante vestibulum ante,Cadillac,DTS,2011,3
+385,curabitur convallis duis consequat dui nec,Mercedes-Benz,600SEL,1993,1
+386,consequat nulla nisl nunc nisl duis bibendum felis,Nissan,Maxima,2005,2
+387,accumsan tortor quis turpis sed ante vivamus tortor duis,Chevrolet,Corsica,1992,6
+388,mi pede malesuada in imperdiet,Volkswagen,Jetta,2001,3
+389,consectetuer adipiscing elit proin risus,Pontiac,Parisienne,1985,1
+390,id lobortis convallis tortor risus dapibus augue vel,MINI,Cooper,2007,7
+391,lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed,Suzuki,Grand Vitara,2009,2
+392,sit amet turpis elementum ligula vehicula consequat morbi a ipsum,Dodge,Dakota Club,1994,5
+393,vivamus tortor duis mattis egestas metus aenean,Honda,Civic Si,2003,6
+394,sit amet consectetuer adipiscing elit proin interdum mauris non ligula,Mercury,Sable,1999,3
+395,aliquam sit amet diam in magna bibendum,Honda,Prelude,2001,1
+396,semper sapien a libero nam dui proin leo,Toyota,RAV4,2012,2
+397,id pretium iaculis diam erat fermentum justo nec,Hyundai,Veracruz,2012,1
+398,augue quam sollicitudin vitae consectetuer eget rutrum at lorem,Ford,F-Series Super Duty,2008,6
+399,aliquam lacus morbi quis tortor id,Pontiac,Firefly,1995,3
+400,proin interdum mauris non ligula pellentesque ultrices phasellus id,Chevrolet,Silverado 3500,2012,1
+401,lectus aliquam sit amet diam in,Dodge,Intrepid,1999,1
+402,tortor sollicitudin mi sit amet lobortis sapien,Mitsubishi,Galant,2008,3
+403,elementum nullam varius nulla facilisi,Chevrolet,Lumina,1992,1
+404,nulla tellus in sagittis dui vel nisl duis,Isuzu,Amigo,1993,6
+405,dignissim vestibulum vestibulum ante ipsum primis in faucibus,Mercedes-Benz,S-Class,1992,5
+406,non sodales sed tincidunt eu felis fusce posuere,Lexus,GS,2009,3
+407,fermentum justo nec condimentum neque sapien,Ford,Bronco,1984,4
+408,arcu adipiscing molestie hendrerit at vulputate vitae nisl,Buick,Regal,1985,2
+409,non quam nec dui luctus rutrum nulla tellus,Toyota,Tacoma,1995,6
+410,donec ut mauris eget massa tempor,Chevrolet,Malibu,2007,3
+411,orci luctus et ultrices posuere cubilia curae,Mercury,Sable,2009,4
+412,integer tincidunt ante vel ipsum praesent blandit lacinia,Ford,Mustang,1993,5
+413,praesent blandit lacinia erat vestibulum sed,Saturn,Ion,2003,2
+414,nam nulla integer pede justo lacinia eget tincidunt eget,Chrysler,PT Cruiser,2001,2
+415,phasellus in felis donec semper sapien,Volkswagen,Jetta,1988,1
+416,id nisl venenatis lacinia aenean sit amet,Ford,Mustang,1992,4
+417,turpis adipiscing lorem vitae mattis nibh,Infiniti,M,2011,7
+418,primis in faucibus orci luctus et ultrices,Chevrolet,Venture,2004,1
+419,consequat metus sapien ut nunc vestibulum ante ipsum,Volkswagen,Golf,1993,1
+420,hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis,Audi,Cabriolet,1996,6
+421,velit eu est congue elementum in hac habitasse platea,Ferrari,430 Scuderia,2009,5
+422,lorem ipsum dolor sit amet consectetuer adipiscing elit,BMW,6 Series,2008,1
+423,rutrum nulla nunc purus phasellus in,Mazda,MX-5,2003,4
+424,a ipsum integer a nibh in quis,Pontiac,G8,2008,5
+425,enim leo rhoncus sed vestibulum sit amet,BMW,X3,2010,3
+426,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh,Lexus,LS,2001,4
+427,massa id lobortis convallis tortor risus dapibus,Dodge,Viper,1994,3
+428,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit,Chrysler,Sebring,2008,6
+429,iaculis justo in hac habitasse,Lincoln,Town Car,2000,2
+430,auctor gravida sem praesent id massa id nisl,Ford,Edge,2007,2
+431,elementum eu interdum eu tincidunt in leo maecenas,Porsche,928,1988,2
+432,etiam justo etiam pretium iaculis justo in hac habitasse platea,Isuzu,Hombre Space,1999,1
+433,nulla elit ac nulla sed vel,GMC,Sierra 1500,2011,6
+434,nisi eu orci mauris lacinia,Land Rover,Range Rover Sport,2011,4
+435,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,Fiat,Nuova 500,2012,2
+436,orci eget orci vehicula condimentum curabitur in libero ut,Pontiac,Bonneville,2003,6
+437,lacus morbi quis tortor id,Dodge,Viper,1999,4
+438,molestie sed justo pellentesque viverra pede,GMC,Suburban 2500,1996,4
+439,in felis donec semper sapien a libero,Dodge,Ram Van 3500,2002,6
+440,sed vel enim sit amet nunc viverra dapibus nulla,Pontiac,Firefly,1991,1
+441,vel augue vestibulum rutrum rutrum neque aenean,Lexus,LS,1998,4
+442,dictumst etiam faucibus cursus urna ut tellus nulla,Lexus,LS,1991,3
+443,potenti nullam porttitor lacus at turpis donec posuere,Mercury,Mountaineer,1998,6
+444,vel augue vestibulum ante ipsum primis in,GMC,Suburban 2500,1997,6
+445,justo pellentesque viverra pede ac diam cras pellentesque volutpat,Kia,Optima,2008,1
+446,sit amet consectetuer adipiscing elit,Dodge,Ram Wagon B150,1994,7
+447,placerat ante nulla justo aliquam,Chevrolet,Silverado 2500,2012,7
+448,posuere metus vitae ipsum aliquam non,Cadillac,Escalade EXT,2004,6
+449,integer a nibh in quis justo maecenas rhoncus,Bentley,Arnage,2005,5
+450,primis in faucibus orci luctus,Holden,Monaro,2004,6
+451,posuere cubilia curae mauris viverra diam vitae quam suspendisse,Mitsubishi,Galant,1984,5
+452,dui proin leo odio porttitor id consequat in,Chevrolet,Tahoe,2003,7
+453,amet diam in magna bibendum imperdiet nullam orci pede venenatis,Chevrolet,Camaro,2000,7
+454,aliquam lacus morbi quis tortor id nulla,Ford,Thunderbird,1994,2
+455,pretium iaculis diam erat fermentum justo,Land Rover,Range Rover,1998,4
+456,lectus vestibulum quam sapien varius,Lexus,RX Hybrid,2007,7
+457,ultrices mattis odio donec vitae,Audi,V8,1991,6
+458,dignissim vestibulum vestibulum ante ipsum primis in faucibus,Acura,RL,1997,3
+459,sapien quis libero nullam sit,Mazda,GLC,1984,6
+460,integer ac leo pellentesque ultrices mattis odio donec vitae,Ford,Freestar,2007,6
+461,nulla eget eros elementum pellentesque quisque porta,Hummer,H3T,2010,7
+462,rhoncus sed vestibulum sit amet cursus id turpis,Kia,Spectra,2000,5
+463,quam pharetra magna ac consequat metus sapien ut nunc,GMC,Yukon XL 1500,2012,1
+464,erat curabitur gravida nisi at nibh in hac habitasse,Mitsubishi,Pajero,1998,1
+465,at nibh in hac habitasse,GMC,Savana 2500,2010,6
+466,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc,Pontiac,G6,2007,6
+467,suscipit nulla elit ac nulla sed vel enim sit,Hummer,H2 SUT,2006,3
+468,interdum venenatis turpis enim blandit mi in porttitor,GMC,Envoy XUV,2005,7
+469,nunc proin at turpis a pede posuere nonummy integer,Chevrolet,Silverado,2003,5
+470,vel nulla eget eros elementum pellentesque,Chevrolet,Silverado 2500,2003,2
+471,leo odio condimentum id luctus,Nissan,240SX,1992,6
+472,faucibus accumsan odio curabitur convallis duis consequat,Ford,F150,2006,4
+473,vestibulum ante ipsum primis in,BMW,3 Series,1996,1
+474,tempus sit amet sem fusce consequat nulla nisl,Dodge,Ram 2500,2008,7
+475,sed justo pellentesque viverra pede,BMW,7 Series,2005,3
+476,odio donec vitae nisi nam ultrices libero non mattis,Jeep,Comanche,1992,2
+477,justo lacinia eget tincidunt eget tempus,Ford,E150,1984,7
+478,accumsan felis ut at dolor,Kia,Sportage,2000,7
+479,elementum eu interdum eu tincidunt in leo maecenas,GMC,Sierra 3500,2011,4
+480,at velit eu est congue,Dodge,Stealth,1994,6
+481,amet cursus id turpis integer aliquet massa id lobortis,Isuzu,i-290,2008,3
+482,a odio in hac habitasse platea dictumst maecenas,Ford,Thunderbird,1995,5
+483,duis aliquam convallis nunc proin,Dodge,Grand Caravan,2003,1
+484,lectus vestibulum quam sapien varius,Dodge,Colt,1994,6
+485,vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat,GMC,Yukon XL 1500,2005,7
+486,cras mi pede malesuada in imperdiet,Audi,S5,2011,7
+487,duis mattis egestas metus aenean fermentum donec ut mauris,Suzuki,Equator,2011,6
+488,odio in hac habitasse platea dictumst maecenas ut,Mitsubishi,Excel,1988,5
+489,mattis egestas metus aenean fermentum donec,Lincoln,Town Car,2004,1
+490,ipsum praesent blandit lacinia erat vestibulum,Ford,Econoline E350,1999,2
+491,nisl ut volutpat sapien arcu sed augue,Mitsubishi,GTO,1994,6
+492,rutrum at lorem integer tincidunt ante,Audi,RS 6,2003,1
+493,vestibulum sed magna at nunc commodo placerat,Land Rover,Range Rover Sport,2011,4
+494,in faucibus orci luctus et ultrices posuere cubilia curae,Hummer,H2,2006,7
+495,nullam orci pede venenatis non sodales,Pontiac,Firebird,1985,5
+496,mus vivamus vestibulum sagittis sapien,GMC,2500 Club Coupe,1993,2
+497,enim in tempor turpis nec,Kia,Spectra,2000,2
+498,erat fermentum justo nec condimentum,Chrysler,Sebring,1996,1
+499,mi sit amet lobortis sapien sapien non mi,Nissan,240SX,1993,7
+500,sed justo pellentesque viverra pede,Pontiac,Grand Prix,1983,1
+501,pede venenatis non sodales sed tincidunt eu felis fusce,Lexus,GX,2010,4
+502,turpis donec posuere metus vitae ipsum,Hyundai,Tiburon,1999,4
+503,convallis morbi odio odio elementum eu,Audi,Allroad,2005,6
+504,ut odio cras mi pede malesuada in imperdiet,Volkswagen,Jetta,2007,6
+505,cursus urna ut tellus nulla,Toyota,Sequoia,2006,6
+506,nibh fusce lacus purus aliquet at feugiat non,Ford,Bronco II,1987,1
+507,convallis nunc proin at turpis a,Pontiac,Bonneville,2002,5
+508,sapien iaculis congue vivamus metus arcu adipiscing,Volkswagen,CC,2012,4
+509,elementum pellentesque quisque porta volutpat erat quisque erat,Chrysler,300,2009,1
+510,faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus,Ford,Five Hundred,2005,1
+511,lorem ipsum dolor sit amet consectetuer adipiscing elit proin,Maybach,Landaulet,2012,4
+512,sit amet lobortis sapien sapien non,Chevrolet,TrailBlazer,2003,4
+513,nibh quisque id justo sit amet sapien,Chevrolet,S10,2003,3
+514,erat eros viverra eget congue eget semper rutrum nulla,Chevrolet,Traverse,2011,6
+515,penatibus et magnis dis parturient montes nascetur,Chevrolet,Camaro,1985,3
+516,ipsum primis in faucibus orci luctus et,Ford,Focus,2002,1
+517,fusce consequat nulla nisl nunc nisl,Mitsubishi,Galant,2011,1
+518,lectus vestibulum quam sapien varius ut blandit,GMC,Envoy XL,2005,2
+519,montes nascetur ridiculus mus vivamus vestibulum,Pontiac,Trans Sport,1994,3
+520,ut at dolor quis odio consequat varius integer ac leo,Ford,Freestyle,2006,1
+521,ut mauris eget massa tempor convallis nulla neque,Lexus,ES,2000,4
+522,eget congue eget semper rutrum nulla nunc purus,Bentley,Continental,2007,5
+523,ultricies eu nibh quisque id justo sit amet,GMC,Sonoma Club Coupe,1994,1
+524,id mauris vulputate elementum nullam varius,Honda,Civic,1997,3
+525,eget congue eget semper rutrum,Mitsubishi,Lancer,2011,5
+526,convallis nulla neque libero convallis eget eleifend,Buick,Skylark,1996,5
+527,sem praesent id massa id,Ford,Ranger,2000,1
+528,donec vitae nisi nam ultrices libero non mattis pulvinar nulla,Chevrolet,Silverado 2500,1999,7
+529,proin at turpis a pede posuere nonummy integer non velit,GMC,Suburban 2500,1995,2
+530,in lectus pellentesque at nulla,Ford,Five Hundred,2007,1
+531,vulputate justo in blandit ultrices enim lorem ipsum dolor sit,Lotus,Esprit,1986,7
+532,turpis enim blandit mi in,Infiniti,QX56,2008,2
+533,proin leo odio porttitor id,Lincoln,Continental Mark VII,1987,1
+534,orci vehicula condimentum curabitur in libero,Mitsubishi,Diamante,1994,1
+535,lacus purus aliquet at feugiat non pretium quis,Toyota,RAV4,1997,2
+536,pellentesque ultrices mattis odio donec vitae nisi nam,Saturn,VUE,2002,6
+537,congue elementum in hac habitasse platea dictumst morbi vestibulum velit,Volkswagen,Golf,2005,7
+538,felis ut at dolor quis odio consequat varius integer ac,Ford,Thunderbird,2004,1
+539,lectus pellentesque at nulla suspendisse potenti cras in purus,Aston Martin,Vantage,2011,7
+540,magna at nunc commodo placerat praesent blandit nam,Nissan,Sentra,1996,5
+541,luctus rutrum nulla tellus in sagittis dui vel nisl,Chevrolet,Cruze,2011,7
+542,mi sit amet lobortis sapien sapien non mi,Nissan,Altima,2006,1
+543,ante ipsum primis in faucibus orci luctus et ultrices,Infiniti,G37,2012,4
+544,nulla elit ac nulla sed vel enim,Saab,9000,1996,4
+545,in hac habitasse platea dictumst,BMW,X6,2012,5
+546,in lectus pellentesque at nulla suspendisse potenti cras,Lexus,GS,2009,7
+547,luctus ultricies eu nibh quisque id justo sit amet,Porsche,944,1990,6
+548,felis sed interdum venenatis turpis enim blandit mi,Dodge,Ram Van B150,1992,3
+549,condimentum curabitur in libero ut massa volutpat convallis morbi odio,Acura,NSX,1994,2
+550,mi integer ac neque duis bibendum morbi non quam,Chevrolet,Express 1500,2001,3
+551,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec,Mercury,Cougar,2000,1
+552,volutpat quam pede lobortis ligula sit amet eleifend pede,Toyota,T100,1993,6
+553,ut rhoncus aliquet pulvinar sed nisl nunc,Ford,F150,1996,1
+554,neque sapien placerat ante nulla justo,Hyundai,Sonata,2011,5
+555,amet lobortis sapien sapien non mi integer ac neque duis,Isuzu,Rodeo,1997,2
+556,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam,Mitsubishi,Galant,2004,5
+557,consequat morbi a ipsum integer a,Nissan,Versa,2010,4
+558,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam,Land Rover,Discovery,1997,3
+559,mauris enim leo rhoncus sed vestibulum sit amet cursus,Volkswagen,CC,2012,1
+560,amet nunc viverra dapibus nulla suscipit,GMC,Savana 1500,2000,6
+561,sapien cursus vestibulum proin eu mi,Volkswagen,Routan,2009,7
+562,est quam pharetra magna ac consequat metus sapien ut nunc,Mitsubishi,Truck,1991,1
+563,proin at turpis a pede posuere,Lexus,ES,1998,2
+564,libero nam dui proin leo odio,Toyota,Paseo,1994,5
+565,maecenas rhoncus aliquam lacus morbi quis tortor id,Suzuki,Reno,2008,7
+566,tempor turpis nec euismod scelerisque,GMC,3500,1995,3
+567,nullam orci pede venenatis non sodales sed tincidunt eu,Mazda,Mazda6,2011,3
+568,dis parturient montes nascetur ridiculus,Ford,Expedition,2007,6
+569,lectus in quam fringilla rhoncus mauris,Mitsubishi,Chariot,1987,1
+570,luctus et ultrices posuere cubilia curae mauris viverra,Cadillac,STS,2010,7
+571,justo nec condimentum neque sapien placerat ante nulla justo aliquam,Pontiac,Bonneville,1965,1
+572,iaculis diam erat fermentum justo,Hyundai,Santa Fe,2004,1
+573,et ultrices posuere cubilia curae,Suzuki,Swift,1994,2
+574,massa quis augue luctus tincidunt nulla mollis,Plymouth,Neon,1998,2
+575,rhoncus aliquam lacus morbi quis tortor id nulla ultrices,Jeep,Wrangler,2004,3
+576,augue luctus tincidunt nulla mollis molestie,Toyota,Tercel,1994,2
+577,libero nam dui proin leo odio porttitor id consequat in,Scion,xB,2005,5
+578,sem praesent id massa id,Ford,Taurus,1992,1
+579,neque duis bibendum morbi non,Nissan,Frontier,2008,3
+580,eu interdum eu tincidunt in leo maecenas pulvinar,Lincoln,MKX,2012,6
+581,lectus suspendisse potenti in eleifend quam a odio in,Chevrolet,Tahoe,1998,6
+582,velit vivamus vel nulla eget eros,Subaru,SVX,1993,7
+583,tristique fusce congue diam id ornare imperdiet sapien,Ford,F-Series,2005,2
+584,nisl duis ac nibh fusce,Lexus,ES,1996,6
+585,eleifend luctus ultricies eu nibh quisque id justo sit amet,Infiniti,QX,2002,5
+586,posuere felis sed lacus morbi sem mauris laoreet ut,Audi,4000CS Quattro,1986,2
+587,pellentesque volutpat dui maecenas tristique est et tempus semper,Volvo,XC70,2006,6
+588,sapien dignissim vestibulum vestibulum ante ipsum primis in,Mitsubishi,Outlander,2009,2
+589,erat eros viverra eget congue eget semper rutrum nulla,Chevrolet,Corvette,2010,3
+590,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum,Nissan,Frontier,1998,2
+591,morbi vestibulum velit id pretium iaculis diam erat fermentum justo,Chevrolet,Camaro,1969,6
+592,tristique in tempus sit amet sem fusce,Subaru,Legacy,1998,5
+593,non mauris morbi non lectus,Toyota,MR2,1987,5
+594,libero quis orci nullam molestie nibh in lectus,Mitsubishi,Eclipse,1992,7
+595,aliquam convallis nunc proin at turpis,Mercedes-Benz,CL-Class,2003,5
+596,id lobortis convallis tortor risus dapibus augue vel accumsan,Mercedes-Benz,M-Class,2000,5
+597,ac enim in tempor turpis nec euismod,Chevrolet,Avalanche 1500,2006,4
+598,elit proin risus praesent lectus vestibulum quam sapien varius,Jeep,Liberty,2005,6
+599,tortor id nulla ultrices aliquet maecenas leo odio condimentum id,Dodge,Intrepid,2004,7
+600,est quam pharetra magna ac consequat metus sapien ut nunc,Lexus,ES,2001,3
+601,ac diam cras pellentesque volutpat dui maecenas tristique est et,GMC,Savana 1500,1998,2
+602,primis in faucibus orci luctus,Dodge,Caravan,1998,5
+603,ut dolor morbi vel lectus in quam fringilla,Kia,Sportage,1999,2
+604,at diam nam tristique tortor eu,Chevrolet,Venture,2002,3
+605,at vulputate vitae nisl aenean lectus,Mercury,Sable,1988,6
+606,sapien cursus vestibulum proin eu mi nulla ac enim in,Ford,E150,2005,6
+607,ac lobortis vel dapibus at diam,Mercury,Tracer,1995,6
+608,gravida sem praesent id massa id nisl venenatis lacinia,Ford,Transit Connect,2013,7
+609,vel lectus in quam fringilla rhoncus mauris enim,Mercury,Capri,1984,5
+610,arcu sed augue aliquam erat volutpat in congue,Subaru,XT,1986,6
+611,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,Nissan,Altima,1998,1
+612,luctus rutrum nulla tellus in sagittis dui,Toyota,MR2,2001,1
+613,turpis a pede posuere nonummy integer non velit donec,Toyota,Highlander,2008,3
+614,ipsum primis in faucibus orci luctus et ultrices,Saturn,VUE,2010,5
+615,nec condimentum neque sapien placerat ante,Plymouth,Voyager,1998,3
+616,amet eleifend pede libero quis orci nullam molestie nibh,Bentley,Mulsanne,2012,1
+617,ipsum primis in faucibus orci luctus et,Suzuki,Swift,1988,6
+618,curabitur gravida nisi at nibh in hac habitasse platea,Oldsmobile,Ciera,1996,4
+619,at turpis a pede posuere nonummy,Dodge,Viper,2003,1
+620,vestibulum rutrum rutrum neque aenean auctor,Lexus,RX Hybrid,2012,2
+621,libero ut massa volutpat convallis morbi odio odio,Honda,S2000,2009,3
+622,ultrices aliquet maecenas leo odio condimentum id luctus,Saturn,VUE,2002,4
+623,in purus eu magna vulputate,Toyota,Highlander,2007,4
+624,convallis nulla neque libero convallis,Ford,Mustang,1995,7
+625,dui vel sem sed sagittis nam congue risus semper porta,Saturn,Ion,2007,4
+626,vulputate justo in blandit ultrices enim lorem,Porsche,Cayman,2009,5
+627,condimentum neque sapien placerat ante nulla justo,Mitsubishi,Diamante,2002,1
+628,praesent blandit nam nulla integer pede justo lacinia,Lexus,SC,1998,6
+629,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel,Cadillac,STS-V,2006,7
+630,curae nulla dapibus dolor vel est donec odio justo sollicitudin,GMC,Savana Cargo Van,2006,1
+631,ipsum praesent blandit lacinia erat vestibulum sed magna at nunc,Chevrolet,Sportvan G30,1994,4
+632,in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum,Nissan,370Z,2009,4
+633,quam sapien varius ut blandit non interdum,Land Rover,LR3,2007,1
+634,nibh fusce lacus purus aliquet at feugiat non,Mercury,Cougar,1996,6
+635,pharetra magna ac consequat metus,Ford,Expedition EL,2012,1
+636,diam vitae quam suspendisse potenti nullam porttitor lacus at,Chevrolet,Cobalt,2008,3
+637,integer non velit donec diam,Volkswagen,Cabriolet,1985,3
+638,massa quis augue luctus tincidunt nulla mollis molestie,Chevrolet,Suburban 1500,2004,1
+639,nulla facilisi cras non velit,Ford,Bronco,1993,7
+640,iaculis justo in hac habitasse,Nissan,Stanza,1992,7
+641,morbi vel lectus in quam,Acura,TL,2002,4
+642,tincidunt eget tempus vel pede,Suzuki,Swift,2006,6
+643,non lectus aliquam sit amet diam in magna,Cadillac,Seville,2001,5
+644,semper rutrum nulla nunc purus phasellus in felis donec semper,Lamborghini,Gallardo,2007,3
+645,fusce posuere felis sed lacus morbi sem mauris laoreet,Ford,E250,1984,2
+646,at feugiat non pretium quis,Lincoln,Town Car,2010,4
+647,quis turpis sed ante vivamus,Ford,E350,2007,4
+648,in faucibus orci luctus et,Mitsubishi,Chariot,1986,7
+649,eget eros elementum pellentesque quisque porta volutpat,Land Rover,Discovery,1995,5
+650,nulla pede ullamcorper augue a,Suzuki,SJ,1990,5
+651,felis donec semper sapien a libero nam dui,GMC,Yukon,1997,7
+652,a odio in hac habitasse platea,Dodge,Dakota,2000,1
+653,eros elementum pellentesque quisque porta volutpat erat quisque erat,BMW,6 Series,2012,2
+654,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie,Toyota,Celica,1983,2
+655,in magna bibendum imperdiet nullam,Pontiac,Grand Prix,1999,6
+656,lacinia nisi venenatis tristique fusce congue,Mazda,B-Series,1990,6
+657,primis in faucibus orci luctus et ultrices,Hyundai,Scoupe,1992,3
+658,nunc viverra dapibus nulla suscipit ligula in,Audi,A8,2000,1
+659,rutrum nulla nunc purus phasellus in felis donec semper,Chevrolet,G-Series 2500,1997,2
+660,ligula in lacus curabitur at ipsum ac tellus,Mercedes-Benz,CL-Class,2009,2
+661,ante ipsum primis in faucibus,Ford,F350,2004,2
+662,in tempor turpis nec euismod scelerisque quam turpis,Chevrolet,Astro,1998,1
+663,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,Lexus,ES,1994,5
+664,semper est quam pharetra magna ac consequat metus sapien,Chevrolet,Suburban 2500,1992,6
+665,nibh ligula nec sem duis,Volkswagen,Passat,2007,6
+666,ut erat curabitur gravida nisi at,Audi,S6,1995,2
+667,gravida sem praesent id massa id nisl,Jaguar,XJ,2007,5
+668,eu interdum eu tincidunt in leo maecenas pulvinar lobortis,Toyota,RAV4,2003,2
+669,mattis nibh ligula nec sem duis aliquam convallis,Isuzu,VehiCROSS,1999,7
+670,cum sociis natoque penatibus et magnis,Subaru,Legacy,2008,2
+671,erat nulla tempus vivamus in felis eu,Lincoln,Town Car,2000,4
+672,orci pede venenatis non sodales sed,Mazda,Tribute,2005,5
+673,placerat ante nulla justo aliquam quis turpis,Buick,Rendezvous,2006,4
+674,at turpis donec posuere metus vitae ipsum aliquam non mauris,Mercury,Grand Marquis,1994,2
+675,tellus nisi eu orci mauris lacinia sapien quis,Dodge,Ram Wagon B150,1992,7
+676,ipsum dolor sit amet consectetuer adipiscing elit proin interdum,Dodge,Viper RT/10,1994,5
+677,enim sit amet nunc viverra dapibus nulla suscipit ligula,Dodge,Dakota,2003,3
+678,suspendisse potenti in eleifend quam a odio,Nissan,Altima,1993,7
+679,ipsum dolor sit amet consectetuer,Mercedes-Benz,C-Class,2007,5
+680,in sapien iaculis congue vivamus metus arcu adipiscing molestie,Mercedes-Benz,C-Class,2007,5
+681,turpis nec euismod scelerisque quam turpis adipiscing,Aston Martin,DB9,2010,6
+682,purus aliquet at feugiat non pretium,Mercury,Grand Marquis,1997,1
+683,nam dui proin leo odio porttitor id,Mercury,Mountaineer,2008,7
+684,ut nulla sed accumsan felis ut at,Toyota,Corolla,1994,1
+685,arcu sed augue aliquam erat volutpat in congue,Porsche,Cayenne,2006,1
+686,in imperdiet et commodo vulputate justo in,Mercedes-Benz,C-Class,2006,3
+687,leo pellentesque ultrices mattis odio,Nissan,Altima,2003,4
+688,in leo maecenas pulvinar lobortis est phasellus sit amet,BMW,Z4,2008,5
+689,sit amet sapien dignissim vestibulum vestibulum,Dodge,Ram Van 2500,1998,5
+690,tortor duis mattis egestas metus aenean,GMC,Rally Wagon 3500,1993,3
+691,curabitur in libero ut massa volutpat,Acura,Legend,1994,3
+692,hac habitasse platea dictumst maecenas,Eagle,Talon,1990,7
+693,dapibus augue vel accumsan tellus,Lexus,LX,2013,7
+694,eget congue eget semper rutrum nulla,Buick,Park Avenue,1996,2
+695,consequat ut nulla sed accumsan felis,Subaru,Alcyone SVX,1997,1
+696,sem sed sagittis nam congue risus,Ford,E350,2012,5
+697,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique,Mercedes-Benz,CLS-Class,2008,3
+698,ullamcorper augue a suscipit nulla elit ac,Honda,CR-X,1985,4
+699,sed justo pellentesque viverra pede ac,Suzuki,Daewoo Lacetti,2005,1
+700,turpis enim blandit mi in porttitor,Mercedes-Benz,M-Class,2004,5
+701,at turpis donec posuere metus,Ford,Econoline E150,1999,7
+702,odio odio elementum eu interdum eu,Lotus,Esprit,1990,7
+703,porta volutpat erat quisque erat eros viverra,Ford,F-Series,1992,4
+704,erat eros viverra eget congue,Ford,Ranger,2011,5
+705,dapibus augue vel accumsan tellus,Audi,A3,2008,3
+706,luctus et ultrices posuere cubilia curae duis,GMC,Envoy,2004,2
+707,mauris eget massa tempor convallis,Suzuki,Grand Vitara,2001,7
+708,proin at turpis a pede posuere nonummy integer,Hyundai,Veloster,2013,1
+709,etiam justo etiam pretium iaculis justo in,Hyundai,Sonata,2008,4
+710,odio donec vitae nisi nam ultrices libero non mattis pulvinar,Nissan,Sentra,2009,3
+711,aenean auctor gravida sem praesent id,Saab,9-3,2005,2
+712,vestibulum ante ipsum primis in,BMW,X5 M,2010,7
+713,sem sed sagittis nam congue risus,Nissan,Pathfinder,2008,4
+714,nisl aenean lectus pellentesque eget nunc donec,Pontiac,Grand Am,1999,7
+715,amet sapien dignissim vestibulum vestibulum ante ipsum primis,Ford,F250,2000,7
+716,est et tempus semper est quam,Lexus,SC,2004,1
+717,ante ipsum primis in faucibus orci luctus et ultrices,Oldsmobile,Achieva,1996,2
+718,nisi volutpat eleifend donec ut dolor morbi vel lectus,Ford,Econoline E350,2002,3
+719,adipiscing elit proin interdum mauris non ligula,GMC,3500 Club Coupe,1998,7
+720,purus sit amet nulla quisque arcu libero rutrum,Cadillac,Eldorado,1996,4
+721,rhoncus aliquam lacus morbi quis tortor id nulla,Lincoln,MKZ,2009,4
+722,augue quam sollicitudin vitae consectetuer eget rutrum,Mitsubishi,Lancer Evolution,2002,6
+723,morbi a ipsum integer a nibh in quis justo maecenas,Nissan,350Z,2004,7
+724,ultrices mattis odio donec vitae nisi,Bentley,Azure,2006,7
+725,nullam molestie nibh in lectus pellentesque at nulla,Mitsubishi,Outlander,2012,1
+726,amet diam in magna bibendum imperdiet nullam orci pede,Volkswagen,Passat,2009,2
+727,orci nullam molestie nibh in lectus pellentesque at nulla,Citroën,SM,1972,7
+728,lacus purus aliquet at feugiat non,Chevrolet,Astro,1996,7
+729,sapien ut nunc vestibulum ante ipsum primis in,Mitsubishi,Expo,1993,6
+730,enim leo rhoncus sed vestibulum sit,Ford,F250,2007,4
+731,natoque penatibus et magnis dis parturient montes,Mazda,MX-5,2002,4
+732,volutpat eleifend donec ut dolor morbi vel lectus,Volkswagen,Jetta,2000,1
+733,erat id mauris vulputate elementum nullam varius nulla,Chevrolet,Tracker,1999,4
+734,molestie lorem quisque ut erat curabitur,Chevrolet,Corvette,1953,6
+735,eu felis fusce posuere felis sed,Mercedes-Benz,SLK-Class,2009,1
+736,convallis eget eleifend luctus ultricies eu,Chrysler,LeBaron,1994,7
+737,mauris vulputate elementum nullam varius nulla facilisi cras non,Pontiac,Grand Prix,2002,6
+738,non quam nec dui luctus rutrum nulla,Aston Martin,DB9 Volante,2006,2
+739,sem sed sagittis nam congue risus semper porta,Ford,Tempo,1988,7
+740,nec condimentum neque sapien placerat ante nulla,Chrysler,New Yorker,1994,4
+741,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis,GMC,Rally Wagon 2500,1992,7
+742,dignissim vestibulum vestibulum ante ipsum primis in faucibus,Ford,Escort,2000,4
+743,vestibulum ante ipsum primis in faucibus orci luctus et,Cadillac,STS-V,2008,3
+744,integer aliquet massa id lobortis convallis,Saturn,Ion,2003,3
+745,eget eleifend luctus ultricies eu nibh quisque id,Ford,Econoline E350,1995,2
+746,fringilla rhoncus mauris enim leo rhoncus,Porsche,911,1988,1
+747,lacinia eget tincidunt eget tempus vel,Volkswagen,Passat,2006,1
+748,sociis natoque penatibus et magnis dis,Nissan,300ZX,1991,6
+749,luctus et ultrices posuere cubilia curae,Nissan,Frontier,2009,6
+750,metus sapien ut nunc vestibulum,Acura,SLX,1996,4
+751,quis odio consequat varius integer ac leo pellentesque,Subaru,SVX,1993,7
+752,mi in porttitor pede justo,Spyker,C8 Laviolette,2004,2
+753,donec semper sapien a libero nam dui proin leo,Cadillac,Seville,1996,4
+754,luctus cum sociis natoque penatibus,Pontiac,Grand Am,1989,6
+755,phasellus in felis donec semper sapien a libero nam dui,Ford,Explorer,2013,6
+756,neque duis bibendum morbi non quam nec dui,Infiniti,J,1996,4
+757,phasellus id sapien in sapien iaculis congue vivamus,Audi,Coupe GT,1986,7
+758,nisl nunc rhoncus dui vel,Mercedes-Benz,CL-Class,2007,2
+759,odio porttitor id consequat in consequat ut,Volkswagen,Passat,2010,3
+760,adipiscing elit proin risus praesent lectus vestibulum,GMC,Yukon XL 1500,2013,2
+761,risus semper porta volutpat quam pede lobortis ligula sit,Hyundai,Elantra,1999,1
+762,pede venenatis non sodales sed tincidunt eu,Dodge,Ram 1500,1996,1
+763,donec semper sapien a libero nam dui,Saturn,S-Series,1992,1
+764,justo maecenas rhoncus aliquam lacus morbi,Lotus,Elan,1992,3
+765,posuere cubilia curae mauris viverra diam vitae,Dodge,Ram 3500,2006,4
+766,eget tempus vel pede morbi porttitor lorem id,Mercedes-Benz,M-Class,2008,2
+767,potenti cras in purus eu magna vulputate,Chevrolet,Corvette,1975,5
+768,est risus auctor sed tristique,Subaru,B9 Tribeca,2007,4
+769,donec diam neque vestibulum eget vulputate ut ultrices vel,Buick,Rendezvous,2004,1
+770,ligula in lacus curabitur at ipsum,Saab,9-7X,2008,7
+771,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices,Ford,Explorer Sport Trac,2001,3
+772,ultrices enim lorem ipsum dolor sit,GMC,Savana 1500,2012,1
+773,habitasse platea dictumst aliquam augue,Suzuki,Reno,2006,5
+774,cras mi pede malesuada in imperdiet et,Chevrolet,Silverado 3500,2010,2
+775,vivamus metus arcu adipiscing molestie hendrerit at vulputate,Lincoln,Town Car,1994,5
+776,ante ipsum primis in faucibus orci luctus et,Buick,Century,1997,1
+777,lobortis vel dapibus at diam nam tristique tortor eu,Volvo,C70,1999,7
+778,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum,Volkswagen,GTI,1985,4
+779,rhoncus mauris enim leo rhoncus sed vestibulum sit,Chevrolet,Tahoe,2001,4
+780,vel accumsan tellus nisi eu orci mauris lacinia,Infiniti,G37,2011,5
+781,eu nibh quisque id justo sit,Mitsubishi,Montero Sport,2004,5
+782,maecenas tristique est et tempus semper est,Audi,A4,1999,2
+783,curabitur convallis duis consequat dui nec nisi volutpat,Ford,Thunderbird,2002,4
+784,mi integer ac neque duis,Nissan,Cube,2009,1
+785,justo eu massa donec dapibus duis at velit eu,Ford,F350,2012,6
+786,molestie nibh in lectus pellentesque at nulla,Isuzu,Impulse,1992,2
+787,leo odio condimentum id luctus nec,Kia,Spectra,2004,2
+788,urna ut tellus nulla ut erat id,Toyota,Echo,2004,7
+789,tellus in sagittis dui vel nisl duis,Subaru,Forester,2000,7
+790,rutrum neque aenean auctor gravida sem praesent id,Bentley,Azure,2010,3
+791,at turpis donec posuere metus vitae ipsum aliquam non,Mercedes-Benz,CLK-Class,2006,4
+792,at diam nam tristique tortor eu,Toyota,Avalon,2006,2
+793,aliquam convallis nunc proin at turpis a pede posuere,Isuzu,Ascender,2006,1
+794,et tempus semper est quam pharetra,Pontiac,Sunfire,1997,7
+795,nisi volutpat eleifend donec ut dolor morbi vel lectus,Audi,S4,1993,1
+796,venenatis lacinia aenean sit amet justo morbi,Geo,Metro,1995,2
+797,luctus et ultrices posuere cubilia curae donec,Lincoln,LS,2000,7
+798,non mauris morbi non lectus aliquam,Ferrari,599 GTB Fiorano,2007,5
+799,id sapien in sapien iaculis congue vivamus metus,Scion,xA,2005,2
+800,semper sapien a libero nam dui proin leo,Toyota,Yaris,2007,2
+801,pellentesque at nulla suspendisse potenti,BMW,X6,2012,5
+802,facilisi cras non velit nec nisi vulputate nonummy maecenas,Lexus,GS,2010,3
+803,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare,Infiniti,Q,1999,2
+804,at ipsum ac tellus semper interdum mauris ullamcorper purus,Mazda,Millenia,1995,2
+805,cras mi pede malesuada in,Lincoln,Continental,1985,5
+806,in ante vestibulum ante ipsum,Hyundai,Scoupe,1995,2
+807,lorem vitae mattis nibh ligula nec sem duis aliquam convallis,Suzuki,Samurai,1992,4
+808,nisl nunc nisl duis bibendum felis sed interdum,Subaru,Legacy,2002,5
+809,a odio in hac habitasse platea dictumst maecenas ut,Lexus,LS,1996,2
+810,justo in blandit ultrices enim lorem ipsum dolor,Land Rover,LR3,2007,5
+811,in est risus auctor sed tristique in tempus sit,Mitsubishi,Mighty Max,1994,3
+812,faucibus cursus urna ut tellus,Audi,A6,1998,6
+813,mauris morbi non lectus aliquam sit amet diam in magna,Toyota,Paseo,1994,1
+814,convallis morbi odio odio elementum eu interdum eu tincidunt,Volkswagen,GTI,2011,5
+815,eu mi nulla ac enim in tempor turpis nec euismod,Ford,Th!nk,2002,7
+816,blandit non interdum in ante vestibulum,Bentley,Continental Flying Spur,2011,2
+817,ac nulla sed vel enim sit amet nunc,Chevrolet,Metro,1998,7
+818,nulla facilisi cras non velit nec,Ford,F250,2011,3
+819,et commodo vulputate justo in blandit ultrices enim,Ford,Escort,1997,3
+820,non velit donec diam neque vestibulum eget vulputate ut ultrices,Ferrari,599 GTB Fiorano,2010,6
+821,nulla integer pede justo lacinia eget tincidunt eget tempus vel,Subaru,Impreza,2006,6
+822,nulla suspendisse potenti cras in purus,Chevrolet,Corvette,1969,3
+823,tempus vel pede morbi porttitor lorem id ligula suspendisse,Hummer,H1,2006,3
+824,ante vivamus tortor duis mattis egestas metus aenean fermentum,Hyundai,Azera,2010,3
+825,risus auctor sed tristique in tempus sit amet,Toyota,Solara,2000,5
+826,consectetuer eget rutrum at lorem integer tincidunt ante,Ford,Escort,1989,6
+827,congue risus semper porta volutpat quam pede lobortis,Chrysler,Town & Country,1998,2
+828,ut dolor morbi vel lectus,Holden,Monaro,2004,2
+829,aliquet massa id lobortis convallis tortor risus,Dodge,Intrepid,1993,5
+830,turpis adipiscing lorem vitae mattis,Spyker,C8,2005,6
+831,vestibulum rutrum rutrum neque aenean auctor,Ford,F250,1997,7
+832,eget semper rutrum nulla nunc purus phasellus in,Toyota,MR2,1986,4
+833,lobortis ligula sit amet eleifend pede libero quis orci nullam,Mazda,B-Series Plus,1994,1
+834,cras in purus eu magna vulputate luctus cum sociis natoque,Oldsmobile,Aurora,2003,5
+835,tincidunt lacus at velit vivamus vel nulla eget eros,GMC,Savana 1500,2007,4
+836,volutpat eleifend donec ut dolor morbi vel lectus,Mitsubishi,Lancer,2005,3
+837,vestibulum ante ipsum primis in faucibus,GMC,Sierra 2500,2011,2
+838,augue a suscipit nulla elit ac nulla,Mazda,Mazda3,2011,4
+839,felis eu sapien cursus vestibulum,Saturn,L-Series,2001,6
+840,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,Mercedes-Benz,S-Class,2007,5
+841,pulvinar lobortis est phasellus sit amet erat,Ford,Explorer,1999,4
+842,in hac habitasse platea dictumst etiam faucibus cursus urna ut,Toyota,Avalon,1999,7
+843,lectus aliquam sit amet diam in magna bibendum,Mercury,Mountaineer,2001,3
+844,tempor turpis nec euismod scelerisque,Jeep,Grand Cherokee,2011,3
+845,nulla justo aliquam quis turpis,Mitsubishi,Lancer Evolution,2004,1
+846,magna vulputate luctus cum sociis natoque penatibus,Volkswagen,Scirocco,1987,5
+847,a pede posuere nonummy integer non velit donec diam,Ford,Crown Victoria,2010,6
+848,volutpat quam pede lobortis ligula sit,Ram,3500,2012,2
+849,pede malesuada in imperdiet et commodo vulputate,Ford,E250,2003,3
+850,quisque id justo sit amet sapien dignissim vestibulum,Chevrolet,Monte Carlo,2006,3
+851,pellentesque at nulla suspendisse potenti cras in,Subaru,Legacy,1993,6
+852,sit amet nulla quisque arcu libero rutrum ac lobortis vel,Nissan,Frontier,2002,3
+853,sapien in sapien iaculis congue vivamus,Fiat,Nuova 500,2012,2
+854,nulla sed vel enim sit amet,Kia,Rio,2005,1
+855,rhoncus dui vel sem sed sagittis nam congue,Chevrolet,Suburban 1500,1999,7
+856,ultrices posuere cubilia curae nulla,Pontiac,Fiero,1985,5
+857,enim in tempor turpis nec euismod scelerisque,Chevrolet,Express 1500,2009,6
+858,rutrum nulla tellus in sagittis,Volkswagen,Golf,1976,2
+859,felis donec semper sapien a libero nam,Chevrolet,Avalanche 1500,2005,2
+860,lorem vitae mattis nibh ligula nec sem,Isuzu,Rodeo,2001,2
+861,dolor vel est donec odio justo sollicitudin ut,Ford,Mustang,1980,7
+862,neque duis bibendum morbi non,Honda,Odyssey,2003,3
+863,ut ultrices vel augue vestibulum,GMC,Jimmy,1994,4
+864,ut odio cras mi pede malesuada in imperdiet et commodo,BMW,745,2003,7
+865,tempus vel pede morbi porttitor lorem id,Chevrolet,Equinox,2011,2
+866,tempus vivamus in felis eu sapien cursus,Chevrolet,Suburban 2500,1998,5
+867,vel nulla eget eros elementum pellentesque quisque porta volutpat,Land Rover,Range Rover,1987,2
+868,dui maecenas tristique est et tempus semper,Dodge,Neon,1997,3
+869,eget eros elementum pellentesque quisque porta,Volkswagen,Eos,2008,1
+870,est congue elementum in hac habitasse platea,Porsche,928,1989,6
+871,gravida nisi at nibh in hac habitasse,Saab,9-3,2003,4
+872,nulla quisque arcu libero rutrum ac lobortis,Bentley,Continental,2006,7
+873,duis bibendum felis sed interdum venenatis,Nissan,Quest,1997,2
+874,condimentum curabitur in libero ut massa volutpat,Honda,Element,2008,3
+875,nunc proin at turpis a,Volkswagen,Golf,1976,2
+876,pretium iaculis diam erat fermentum justo,Toyota,Tacoma,2003,4
+877,metus aenean fermentum donec ut mauris eget,Ford,C-MAX Hybrid,2013,1
+878,venenatis tristique fusce congue diam id,BMW,M Roadster,2008,4
+879,diam erat fermentum justo nec condimentum,BMW,545,2004,3
+880,in felis donec semper sapien,BMW,530,2001,7
+881,quis justo maecenas rhoncus aliquam,Chevrolet,S10,2001,6
+882,et ultrices posuere cubilia curae mauris,GMC,Sierra 3500,2005,7
+883,sapien cum sociis natoque penatibus et magnis dis parturient montes,Mazda,RX-8,2009,7
+884,accumsan odio curabitur convallis duis consequat dui nec nisi volutpat,BMW,X6 M,2011,7
+885,nulla neque libero convallis eget,Mercury,Milan,2009,2
+886,ipsum dolor sit amet consectetuer adipiscing,Mazda,MX-3,1992,3
+887,donec posuere metus vitae ipsum aliquam non mauris morbi non,Volkswagen,Vanagon,1984,7
+888,convallis nulla neque libero convallis eget eleifend luctus,Bentley,Brooklands,2010,2
+889,velit vivamus vel nulla eget eros,Lexus,IS,2010,5
+890,elit proin risus praesent lectus,Plymouth,Laser,1994,2
+891,condimentum curabitur in libero ut massa volutpat convallis,Hyundai,Tucson,2005,5
+892,donec pharetra magna vestibulum aliquet ultrices erat tortor,Nissan,Murano,2005,3
+893,in felis donec semper sapien a libero nam dui,Ford,Th!nk,2002,3
+894,sapien iaculis congue vivamus metus arcu adipiscing,Chevrolet,Camaro,1996,6
+895,est lacinia nisi venenatis tristique fusce congue diam id,Mazda,RX-7,1995,3
+896,platea dictumst etiam faucibus cursus urna ut tellus nulla,Lexus,LS,1992,7
+897,ipsum primis in faucibus orci luctus et ultrices,Dodge,Challenger,2012,1
+898,in imperdiet et commodo vulputate justo in,Mercedes-Benz,C-Class,1995,2
+899,sagittis nam congue risus semper porta volutpat,Nissan,Frontier,2005,7
+900,libero non mattis pulvinar nulla,Dodge,Avenger,1997,7
+901,augue quam sollicitudin vitae consectetuer eget rutrum at lorem,BMW,7 Series,2002,7
+902,cubilia curae mauris viverra diam vitae quam,Infiniti,G,2003,3
+903,quis odio consequat varius integer ac leo pellentesque ultrices,Kia,Amanti,2004,4
+904,in faucibus orci luctus et ultrices posuere cubilia,Ford,Aerostar,1997,4
+905,ipsum praesent blandit lacinia erat vestibulum sed magna,Nissan,Stanza,1992,4
+906,consequat lectus in est risus auctor,Isuzu,Hombre Space,1999,2
+907,nullam sit amet turpis elementum ligula,Chevrolet,Impala SS,1995,3
+908,curabitur at ipsum ac tellus semper interdum mauris ullamcorper,Land Rover,Discovery,1997,1
+909,aliquam quis turpis eget elit sodales scelerisque mauris,Mazda,MX-5,2002,3
+910,venenatis non sodales sed tincidunt,Toyota,RAV4,2001,2
+911,penatibus et magnis dis parturient montes nascetur ridiculus,Mercedes-Benz,CLK-Class,2008,4
+912,potenti in eleifend quam a odio in hac habitasse,Mitsubishi,Lancer,2001,5
+913,amet eleifend pede libero quis orci nullam,Audi,S4,2001,2
+914,commodo placerat praesent blandit nam nulla integer pede justo,Chevrolet,Lumina,1995,2
+915,orci nullam molestie nibh in,Mitsubishi,Excel,1988,1
+916,lectus in est risus auctor sed tristique,Saab,900,1987,6
+917,nulla neque libero convallis eget,Audi,Quattro,1993,1
+918,quis lectus suspendisse potenti in eleifend,Mercedes-Benz,C-Class,1996,5
+919,in tempor turpis nec euismod scelerisque quam,Mazda,MX-6,1988,3
+920,morbi non quam nec dui luctus rutrum nulla tellus,Ford,Edge,2012,4
+921,justo in blandit ultrices enim lorem,Dodge,Ram 2500,1999,2
+922,semper porta volutpat quam pede lobortis ligula sit,Toyota,MR2,1985,2
+923,maecenas rhoncus aliquam lacus morbi quis tortor id nulla,Dodge,Grand Caravan,2004,2
+924,at feugiat non pretium quis lectus suspendisse,Mazda,Protege,1992,2
+925,risus dapibus augue vel accumsan tellus nisi eu orci,GMC,Envoy XL,2003,1
+926,aenean lectus pellentesque eget nunc donec quis orci,Isuzu,Ascender,2003,7
+927,ultrices aliquet maecenas leo odio condimentum,Nissan,Maxima,2010,7
+928,vulputate elementum nullam varius nulla facilisi cras non,Chevrolet,Impala SS,1994,7
+929,vivamus tortor duis mattis egestas metus aenean fermentum donec ut,Acura,TL,2005,4
+930,nam nulla integer pede justo lacinia,Toyota,Celica,2002,6
+931,lorem ipsum dolor sit amet consectetuer adipiscing elit proin,BMW,7 Series,1995,3
+932,ut suscipit a feugiat et eros vestibulum,Acura,MDX,2005,2
+933,amet eleifend pede libero quis orci nullam molestie nibh in,GMC,Yukon,2004,3
+934,rhoncus mauris enim leo rhoncus sed vestibulum sit,Cadillac,CTS,2006,5
+935,mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,Toyota,Yaris,2009,7
+936,ac diam cras pellentesque volutpat dui maecenas tristique est et,Honda,Odyssey,2008,2
+937,consequat dui nec nisi volutpat eleifend donec ut,Audi,A4,2011,5
+938,ultrices libero non mattis pulvinar nulla pede ullamcorper augue,Chevrolet,G-Series 2500,1997,7
+939,elementum nullam varius nulla facilisi cras non,Dodge,Ram Van B250,1992,2
+940,rhoncus sed vestibulum sit amet cursus id,Pontiac,Grand Prix,1984,4
+941,at feugiat non pretium quis,Dodge,Intrepid,2003,1
+942,odio odio elementum eu interdum eu,Isuzu,VehiCROSS,2000,2
+943,pede posuere nonummy integer non velit donec diam,GMC,Yukon,2000,4
+944,pellentesque volutpat dui maecenas tristique est et tempus semper est,Chevrolet,Corvette,1988,5
+945,neque libero convallis eget eleifend luctus ultricies eu nibh,Lamborghini,Countach,1986,6
+946,in leo maecenas pulvinar lobortis est,Infiniti,M,2008,7
+947,ultrices vel augue vestibulum ante ipsum primis in,GMC,Suburban 1500,1997,3
+948,sapien dignissim vestibulum vestibulum ante ipsum,GMC,1500 Club Coupe,1994,2
+949,turpis adipiscing lorem vitae mattis nibh ligula,Hyundai,Equus,2013,1
+950,luctus et ultrices posuere cubilia curae donec pharetra,Scion,tC,2006,2
+951,pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus,Bentley,Arnage,2007,6
+952,in hac habitasse platea dictumst,Chevrolet,Impala,2003,3
+953,nam dui proin leo odio porttitor id consequat in,Volvo,V70,1999,3
+954,vel ipsum praesent blandit lacinia erat,Ford,Taurus,1986,2
+955,donec quis orci eget orci vehicula condimentum curabitur in,Cadillac,Escalade,2008,2
+956,in magna bibendum imperdiet nullam orci pede venenatis,Porsche,Boxster,2002,2
+957,dolor morbi vel lectus in quam fringilla rhoncus mauris enim,Ferrari,F430,2006,2
+958,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,Chevrolet,Express 1500,1998,5
+959,consectetuer adipiscing elit proin risus praesent lectus vestibulum,Acura,NSX,1994,2
+960,in congue etiam justo etiam pretium iaculis justo in,Toyota,FJ Cruiser,2009,7
+961,pellentesque at nulla suspendisse potenti,Mitsubishi,Sigma,1989,3
+962,hac habitasse platea dictumst aliquam,Suzuki,Swift,1994,7
+963,sed vestibulum sit amet cursus id turpis,Nissan,Xterra,2011,4
+964,sed vestibulum sit amet cursus,Honda,Accord,2010,4
+965,platea dictumst aliquam augue quam sollicitudin vitae consectetuer,Cadillac,STS-V,2008,5
+966,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus,Cadillac,CTS-V,2006,6
+967,elit sodales scelerisque mauris sit,GMC,Savana 3500,2003,3
+968,sagittis nam congue risus semper,Land Rover,Range Rover Classic,1993,5
+969,lacinia erat vestibulum sed magna at,Oldsmobile,Silhouette,1992,2
+970,parturient montes nascetur ridiculus mus vivamus vestibulum,Mercedes-Benz,M-Class,2003,5
+971,ultrices erat tortor sollicitudin mi,Mercedes-Benz,E-Class,1990,2
+972,in ante vestibulum ante ipsum primis in,Chevrolet,3500,1997,4
+973,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis,Hummer,H3,2010,6
+974,orci eget orci vehicula condimentum curabitur in libero ut,Mercedes-Benz,R-Class,2006,2
+975,lectus in quam fringilla rhoncus mauris,Mercury,Monterey,2006,3
+976,neque aenean auctor gravida sem praesent id massa id nisl,Lexus,IS F,2010,2
+977,ut mauris eget massa tempor convallis nulla neque,Dodge,Stratus,2006,5
+978,ut suscipit a feugiat et eros vestibulum ac est,Pontiac,Montana,2000,1
+979,posuere cubilia curae mauris viverra,Oldsmobile,Ciera,1994,3
+980,volutpat in congue etiam justo etiam pretium iaculis,Cadillac,XLR-V,2008,6
+981,pulvinar sed nisl nunc rhoncus dui,Chevrolet,Express 2500,2004,7
+982,cubilia curae donec pharetra magna vestibulum,Jaguar,XJ Series,2003,5
+983,metus vitae ipsum aliquam non mauris,Lexus,RX,1999,4
+984,gravida sem praesent id massa id nisl,Volkswagen,GLI,2009,4
+985,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus,Nissan,Titan,2010,4
+986,convallis duis consequat dui nec nisi,Lexus,LX,2010,5
+987,ut erat curabitur gravida nisi at nibh in,Aston Martin,DB9,2009,1
+988,vestibulum vestibulum ante ipsum primis in faucibus orci luctus,Ford,F250,1995,6
+989,maecenas tincidunt lacus at velit vivamus vel nulla,Infiniti,QX56,2010,7
+990,aliquet massa id lobortis convallis tortor risus dapibus,Acura,NSX,1997,3
+991,pede libero quis orci nullam molestie nibh in lectus pellentesque,Saab,9-2X,2006,7
+992,ac leo pellentesque ultrices mattis odio donec vitae nisi nam,Ford,F250,1984,5
+993,pede posuere nonummy integer non velit donec diam neque vestibulum,Pontiac,Bonneville,1984,1
+994,ipsum aliquam non mauris morbi non lectus aliquam sit,Buick,LeSabre,1992,6
+995,est lacinia nisi venenatis tristique fusce congue,Ford,Thunderbird,1990,4
+996,pede malesuada in imperdiet et commodo vulputate justo in,Pontiac,Bonneville,1990,4
+997,sed tristique in tempus sit,Jaguar,XJ Series,2000,1
+998,duis faucibus accumsan odio curabitur convallis duis consequat dui nec,Mazda,RX-7,1985,1
+999,suspendisse potenti cras in purus eu magna vulputate,Mazda,MX-5,1998,6
+1000,sapien placerat ante nulla justo aliquam quis turpis,Honda,Civic,1996,3
